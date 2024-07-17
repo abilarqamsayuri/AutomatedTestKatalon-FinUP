@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Baru Template</name>
+   <tag></tag>
+   <elementGuidId>5cd604f7-d65c-447e-ac9c-635d54f5a06f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[13]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>jhi-payung-syaratpmbayar-listgw > div.mb-2 > button.p-element.p-button-sm.p-button-primary.p-button.p-component</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eb585a62-a7d9-49bd-830f-5a43c58daa16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Baru Template</value>
+      <webElementGuid>fa0a4341-5e23-446a-9f3d-da480badd02b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon</name>
+      <type>Main</type>
+      <value>pi pi-plus</value>
+      <webElementGuid>75d78292-b59a-4019-92db-841f24873910</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>78735136-3f88-4d5e-b603-961aa4d0f40d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-element p-button-sm p-button-primary p-button p-component</value>
+      <webElementGuid>b53094a5-fb61-44da-a16f-b1d3fc1848e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Baru Template</value>
+      <webElementGuid>1021d472-eb5b-4369-9fc0-65d749a9fefa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-3&quot;)/jhi-payung-syaratpmbayar-listgw[1]/div[@class=&quot;mb-2&quot;]/button[@class=&quot;p-element p-button-sm p-button-primary p-button p-component&quot;]</value>
+      <webElementGuid>8500418f-7473-40dd-9c57-a964a5f38b66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[13]</value>
+      <webElementGuid>67e921af-d4f6-453f-9857-81e94df393f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-3']/jhi-payung-syaratpmbayar-listgw/div/button</value>
+      <webElementGuid>9d243d69-c9d6-4421-b671-3691c22a1a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test'])[1]/following::button[2]</value>
+      <webElementGuid>76552625-7fe4-4736-8067-68e794533866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direksi Pekerjaan'])[1]/following::button[2]</value>
+      <webElementGuid>56e18920-7ff7-4435-8778-8738d3e7cfc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baru'])[2]/preceding::button[1]</value>
+      <webElementGuid>d07925e1-9787-415c-88e3-d783c74139e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//jhi-payung-syaratpmbayar-listgw/div/button</value>
+      <webElementGuid>d1ac93d0-c5a7-43aa-a0d2-6c05dd4b5bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Baru Template' or . = 'Baru Template')]</value>
+      <webElementGuid>356fd6e8-c083-42ec-87fd-e9741fb076af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

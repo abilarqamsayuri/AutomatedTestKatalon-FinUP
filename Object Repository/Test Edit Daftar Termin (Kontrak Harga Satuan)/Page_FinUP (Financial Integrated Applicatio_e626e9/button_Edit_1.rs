@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit_1</name>
+   <tag></tag>
+   <elementGuidId>9251667c-1a56-4c4e-aa8b-1dcee5c8d0fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card > div.mb-2 > button.p-element.p-button-sm.p-button-warning.p-button.p-component</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[25]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d4c58cbb-2ff1-457e-9505-1f881d7f13ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>be401878-32ef-4b95-9a7e-df4d533f2f0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon</name>
+      <type>Main</type>
+      <value>pi pi-pencil</value>
+      <webElementGuid>aa79fead-58b4-49a1-807f-8c5d877ef208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>94ff87ac-38fa-4e75-a38c-f306709f8c19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-element p-button-sm p-button-warning p-button p-component</value>
+      <webElementGuid>ac5f0826-a94d-4c13-b80e-66a48180ecf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>723954c2-e31a-4ad6-adfb-a1c8fe0169eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-payunggw-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/jhi-payung-delivgw-list[1]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;mb-2&quot;]/button[@class=&quot;p-element p-button-sm p-button-warning p-button p-component&quot;]</value>
+      <webElementGuid>bef134fa-4280-4afa-98fd-9e299a210ba8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[25]</value>
+      <webElementGuid>d7c9621d-2e48-40c1-b202-e98941f4bbad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baru'])[4]/following::button[1]</value>
+      <webElementGuid>75bc565f-12df-4fe0-8302-d553673a57b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Delivery Order'])[1]/following::button[2]</value>
+      <webElementGuid>7d8fe60f-1ce5-4675-9f1a-aa50b32bd86c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[4]/preceding::button[1]</value>
+      <webElementGuid>41e87766-69fd-4048-affc-ac05c75fda54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button[2]</value>
+      <webElementGuid>8e0151be-aa30-49ab-9928-deb08527b570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>315169c6-d307-4aad-9965-361f48a176b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Baru</name>
+   <tag></tag>
+   <elementGuidId>655b1753-c1d1-4cb4-940b-d9cf674bbe02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>jhi-payung-termin-listgw > div.card > div.mb-2 > button.p-element.p-button-sm.p-button-primary.p-button.p-component</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[41]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>26e2154f-5719-4d05-96dd-f5be4425c062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Baru</value>
+      <webElementGuid>36c3eab0-6065-4402-8f8c-1758e253ed12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon</name>
+      <type>Main</type>
+      <value>pi pi-plus</value>
+      <webElementGuid>cf3f07b4-9774-4fe9-b207-57cf29451d6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ab92e0a8-53cb-4765-95cc-d86f98212402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-element p-button-sm p-button-primary p-button p-component</value>
+      <webElementGuid>9ca06378-50a4-4469-b6f2-ab42a4194a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Baru</value>
+      <webElementGuid>a454e89d-f646-468f-bccb-8e8cc67bb9ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-payunggw-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/jhi-payung-delivgw-list[1]/div[@class=&quot;grid&quot;]/jhi-payung-deliv-formgw[1]/p-dialog[@class=&quot;p-element ng-tns-c110-42 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-42 p-dialog-mask p-component-overlay p-component-overlay-enter p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;p-element ng-trigger ng-trigger-animation ng-tns-c110-42 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-42 p-dialog-content&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-tns-c110-42&quot;]/div[@class=&quot;grid -mx-1&quot;]/div[@class=&quot;col-12 px-1&quot;]/jhi-payung-termin-listgw[1]/div[@class=&quot;card&quot;]/div[@class=&quot;mb-2&quot;]/button[@class=&quot;p-element p-button-sm p-button-primary p-button p-component&quot;]</value>
+      <webElementGuid>c7cee2fb-4fbb-4f51-a1fb-098e4b3b758e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[41]</value>
+      <webElementGuid>8f284fcc-30b9-47fa-a966-3d6b4fe4e9b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Termin'])[1]/following::button[1]</value>
+      <webElementGuid>218c6867-4d20-4458-8b0c-0142f992f79f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DIVBSS'])[1]/following::button[1]</value>
+      <webElementGuid>1c12efcb-d824-4035-bb83-c2338af10895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[3]/preceding::button[1]</value>
+      <webElementGuid>86fd28e1-8a8f-4ebc-841f-3cf825c33279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//jhi-payung-termin-listgw/div/div/button</value>
+      <webElementGuid>b42de626-9ed8-4c36-8f19-ae32ae24c1a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Baru' or . = 'Baru')]</value>
+      <webElementGuid>57e4f0a3-2024-43a1-9ec5-a5f925a0ce14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

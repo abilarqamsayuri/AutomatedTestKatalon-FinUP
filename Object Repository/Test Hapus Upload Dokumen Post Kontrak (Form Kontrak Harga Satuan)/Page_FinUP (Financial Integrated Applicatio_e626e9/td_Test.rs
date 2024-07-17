@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Test</name>
+   <tag></tag>
+   <elementGuidId>2a7f1c4e-0b22-4b15-96a3-a43cb182876e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_13-table']/tbody/tr/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>2223ed9a-42c1-486e-b0eb-976cb3992d51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Test
+                </value>
+      <webElementGuid>b396efe1-e93d-4393-9ee9-5d75e58ae1fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_13-table&quot;)/tbody[@class=&quot;p-element p-datatable-tbody&quot;]/tr[@class=&quot;p-element p-selectable-row ng-star-inserted&quot;]/td[2]</value>
+      <webElementGuid>b05b2be7-6684-49f5-894b-7be14055348e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_13-table']/tbody/tr/td[2]</value>
+      <webElementGuid>99a8ff0a-9cc1-4139-b68d-8c5bd2e7fbd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FILE'])[1]/following::td[2]</value>
+      <webElementGuid>ea7fef0e-5c46-4548-bbdf-5bf8cafcb373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MULTI UNIT'])[1]/following::td[2]</value>
+      <webElementGuid>ad55b1c8-9031-4af7-a8e8-10e27c5f5b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='V01290'])[1]/preceding::td[1]</value>
+      <webElementGuid>cdb26afb-1af0-465f-890d-470ef7984d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>6136616e-f45d-4818-8555-a87a67cfbbcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                  Test
+                ' or . = '
+                  Test
+                ')]</value>
+      <webElementGuid>1723b091-1454-448e-bbae-afe560a2454a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

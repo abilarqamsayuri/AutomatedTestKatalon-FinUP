@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_pelaksana 1</name>
+   <tag></tag>
+   <elementGuidId>eeb902d6-6b9f-4765-8839-a34d5e3031a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//li[@id=''])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>0bc34337-72b7-465e-8cf0-33aad95b6ed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>6ec520ee-72a6-446f-96eb-c655312d0e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element p-dropdown-item</value>
+      <webElementGuid>3c05d052-843a-4eb0-918e-f0727af005d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>pelaksana 1</value>
+      <webElementGuid>be077503-2e02-43c1-8a68-82f96a1035aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>748246cb-28db-40b4-8e2c-8df1d44bbed2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>pelaksana 1</value>
+      <webElementGuid>b649e33e-2b23-48f8-a942-d5b709738fd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_23_list&quot;)/p-dropdownitem[@class=&quot;p-element ng-tns-c70-32 ng-star-inserted&quot;]/li[@class=&quot;p-ripple p-element p-dropdown-item&quot;]</value>
+      <webElementGuid>568cd2b9-5fde-48f6-823b-6e800b8a3857</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//li[@id=''])[2]</value>
+      <webElementGuid>4298e81b-f616-468e-9aae-e2109b16c6f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='pr_id_23_list']/p-dropdownitem[3]/li</value>
+      <webElementGuid>ab8719e7-06f2-4a5a-afd5-bd13ad0c4a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='direktur'])[1]/following::li[1]</value>
+      <webElementGuid>33863872-8293-4535-8b9e-55acad6baa8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Pilih --'])[2]/following::li[2]</value>
+      <webElementGuid>bae63154-1558-40a5-8936-2a2ee11e2986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelaksana 3'])[1]/preceding::li[1]</value>
+      <webElementGuid>5749ce62-505a-485c-9918-fcc60ad00c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dropdownitem[3]/li</value>
+      <webElementGuid>7c19b90b-fb5a-47fb-9ea3-3f1311a67930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'pelaksana 1' or . = 'pelaksana 1')]</value>
+      <webElementGuid>7b88a303-d30d-41f5-8f02-9ad83244ae51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

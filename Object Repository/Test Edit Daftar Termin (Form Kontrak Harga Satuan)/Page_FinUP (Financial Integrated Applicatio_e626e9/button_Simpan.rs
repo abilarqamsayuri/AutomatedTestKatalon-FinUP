@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan</name>
+   <tag></tag>
+   <elementGuidId>cef34594-2824-46d7-8b67-1cd2cd802fdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-ripple.p-element.p-button-text.p-button.p-component</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>569b04ea-3fc2-4d77-b52b-cf198a4cc4b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element p-button-text p-button p-component</value>
+      <webElementGuid>228411fe-e3b0-4188-bd3d-1526e996c740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>90457fe3-738e-46c1-b9c3-e7677de4a37a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan </value>
+      <webElementGuid>50a4ea07-cdc8-4733-bbef-e5206bc36a48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-payunggw-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/jhi-payung-delivgw-list[1]/div[@class=&quot;grid&quot;]/jhi-payung-deliv-formgw[1]/p-dialog[@class=&quot;p-element ng-tns-c110-42 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-42 p-dialog-mask p-component-overlay p-component-overlay-enter p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;p-element ng-trigger ng-trigger-animation ng-tns-c110-42 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-42 p-dialog-content&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-tns-c110-42&quot;]/div[2]/p-button[@class=&quot;p-element&quot;]/button[@class=&quot;p-ripple p-element p-button-text p-button p-component&quot;]</value>
+      <webElementGuid>afa755ac-59c4-44c4-9177-0ae5e9925d2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>62ae23d3-8b2c-4f94-aa90-816c77281ae8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::button[1]</value>
+      <webElementGuid>c9364974-3fbb-49ac-8cf3-ac8f549d2d7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/following::button[2]</value>
+      <webElementGuid>72b74865-0bc0-41c7-aa96-c905ff331e7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[1]/preceding::button[1]</value>
+      <webElementGuid>f9086de3-00b6-4d6f-829e-0fb4d07ff64a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p-button/button</value>
+      <webElementGuid>96b0edbc-ba02-41a3-b766-7856717fd314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Simpan ' or . = 'Simpan ')]</value>
+      <webElementGuid>4660c105-d4d6-4f88-bfc3-71acae049e46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

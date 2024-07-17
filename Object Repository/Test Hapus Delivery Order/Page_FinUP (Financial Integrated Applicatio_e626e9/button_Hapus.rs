@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Hapus</name>
+   <tag></tag>
+   <elementGuidId>19d8d3f7-1bec-4982-a8da-48903ee022f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card > div.mb-2 > button.p-element.p-button-sm.p-button-danger.p-button.p-component</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[26]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eb192d59-4549-4a1d-9f0a-6adceb98bd9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Hapus</value>
+      <webElementGuid>898e2433-21a2-4499-93b9-d4bb73b535a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon</name>
+      <type>Main</type>
+      <value>pi pi-trash</value>
+      <webElementGuid>fdbf9820-d85f-4508-8a71-2123dee81cb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4a9fd292-49f9-491e-a0c7-9282e9238d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-element p-button-sm p-button-danger p-button p-component</value>
+      <webElementGuid>e0dd2b17-392d-4174-a222-17df32af08a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hapus</value>
+      <webElementGuid>10a4ff5c-2987-4a37-8feb-8da4fc68cbaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-payunggw-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/jhi-payung-delivgw-list[1]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;mb-2&quot;]/button[@class=&quot;p-element p-button-sm p-button-danger p-button p-component&quot;]</value>
+      <webElementGuid>ce728d10-e265-451c-a8a4-f2e4b3e87153</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[26]</value>
+      <webElementGuid>1a1ad775-bc1f-4b4e-bfd2-25563904af09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/following::button[1]</value>
+      <webElementGuid>59e3bed0-0ef8-4ece-9a1a-79e996ae61ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baru'])[4]/following::button[2]</value>
+      <webElementGuid>418f0769-567d-4a6c-a108-b9526b93e1b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[3]/preceding::button[1]</value>
+      <webElementGuid>eeb85b4c-d86d-4789-8034-e2be903b77eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button[3]</value>
+      <webElementGuid>4b44f79d-b17f-478b-a62f-f1f5719dcc4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Hapus' or . = 'Hapus')]</value>
+      <webElementGuid>f1c91741-2e8a-47e7-aa61-56a8ffbaf4d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_1 - Jenis 003</name>
+   <tag></tag>
+   <elementGuidId>ce59c5db-6515-4dd5-9805-bd68f0f72a9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>cf9323b2-9cef-40ef-ba36-896ac73fc56b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>690bcf83-6106-4dcb-b8eb-4b84fcaf67a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element p-dropdown-item</value>
+      <webElementGuid>6075103b-263a-4743-800e-cace41870359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>1 - Jenis 003</value>
+      <webElementGuid>02a00769-eb9c-4cb2-87dd-6e9dbdca49b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>91f56342-a1f1-4bc5-8d38-e6ca53b47113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 - Jenis 003</value>
+      <webElementGuid>9f54c521-1648-47f5-8a06-3d2f810d2996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_20_list&quot;)/p-dropdownitem[@class=&quot;p-element ng-tns-c70-25 ng-star-inserted&quot;]/li[@class=&quot;p-ripple p-element p-dropdown-item&quot;]</value>
+      <webElementGuid>27b884fc-aaef-460e-b32c-519fff0cc9a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='']</value>
+      <webElementGuid>24129e7a-6377-4f47-9bf3-e14b52ef231b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='pr_id_20_list']/p-dropdownitem[2]/li</value>
+      <webElementGuid>0b04ad58-573a-465a-825d-c39439bd3215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Pilih --'])[2]/following::li[1]</value>
+      <webElementGuid>184753e2-0e21-44da-bcbd-52e60e721722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Pilih --'])[1]/following::li[2]</value>
+      <webElementGuid>b2a14f72-3709-419e-9d72-8397ed784bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jangka waktu berlaku kontrak'])[1]/preceding::li[5]</value>
+      <webElementGuid>51afe337-33b8-4da1-89af-5ee5329ea050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='s/d'])[1]/preceding::li[5]</value>
+      <webElementGuid>550d0ac8-ee76-4ec5-ac4e-1e06d196149b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dropdownitem[2]/li</value>
+      <webElementGuid>d6fa661c-9c79-4c41-8568-cf7ed43410d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '1 - Jenis 003' or . = '1 - Jenis 003')]</value>
+      <webElementGuid>c8d8ae24-783a-4219-b40a-6fe579e37059</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

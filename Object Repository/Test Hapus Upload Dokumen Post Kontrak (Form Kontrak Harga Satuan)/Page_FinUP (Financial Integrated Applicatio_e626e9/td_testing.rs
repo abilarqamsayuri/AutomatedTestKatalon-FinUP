@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_testing</name>
+   <tag></tag>
+   <elementGuidId>2f33fff2-64fd-4a60-b913-6eb3c116b365</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_67-table']/tbody/tr[2]/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>0cca2ba6-bdd5-49b1-9c59-df4d15ba85db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>testing</value>
+      <webElementGuid>b5563852-1e1d-440a-9ef4-91e0e4481145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_67-table&quot;)/tbody[@class=&quot;p-element p-datatable-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[4]</value>
+      <webElementGuid>cb7c1268-6eae-4616-a04b-c95252458d25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_67-table']/tbody/tr[2]/td[4]</value>
+      <webElementGuid>39ca33d1-5ffd-4407-85d2-fe36797e54e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RUU Cipta Kerja.pdf'])[1]/following::td[5]</value>
+      <webElementGuid>afd1c943-8989-4e01-9081-a6cb835bf278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testing'])[1]/following::td[6]</value>
+      <webElementGuid>ee1972ed-d4a9-4088-ac5c-4dd60808c5c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RUU Cipta Kerja.pdf'])[2]/preceding::td[1]</value>
+      <webElementGuid>e5f0b596-845a-45d9-bd07-14bfdf5efe0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Dokumen'])[2]/preceding::td[3]</value>
+      <webElementGuid>b35dd890-20e4-4e84-9cdf-4ce818f9fdf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p-table/div/div/table/tbody/tr[2]/td[4]</value>
+      <webElementGuid>e897edb0-35f0-4cec-aa85-9664c9f9cf66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'testing' or . = 'testing')]</value>
+      <webElementGuid>1dc87d8a-a1c7-4684-97b7-ad4966b69b9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

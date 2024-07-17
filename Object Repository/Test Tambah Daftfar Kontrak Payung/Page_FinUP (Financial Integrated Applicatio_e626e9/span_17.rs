@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_17</name>
+   <tag></tag>
+   <elementGuidId>36d98731-796f-4b82-bb1a-273c1dee99ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.ng-tns-c83-26.p-datepicker-today.ng-star-inserted > span.p-ripple.p-element.ng-tns-c83-26.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[35]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b4d5a16d-cc75-4932-b55f-90d2d571a052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1f795220-15e5-46ab-9c6e-1668758acb13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element ng-tns-c83-26 ng-star-inserted</value>
+      <webElementGuid>296a07e4-d3d6-474f-9e31-d06c02749d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>23c5afbf-44a3-466c-a4f8-e17858bf1aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>17</value>
+      <webElementGuid>b8c01327-9cb0-4002-8653-578573815301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-payunggw-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;grid -mx-1&quot;]/div[@class=&quot;col-12 px-1 -mt-6&quot;]/div[@class=&quot;field grid -mx-1&quot;]/div[@class=&quot;px-1 col-2 -ml-1&quot;]/p-calendar[@class=&quot;p-element p-inputwrapper calendar-custom ng-tns-c83-26 ng-pristine ng-star-inserted ng-invalid ng-touched&quot;]/span[@class=&quot;ng-tns-c83-26 p-calendar p-calendar-w-btn&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c83-26 p-datepicker p-component ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-group-container ng-tns-c83-26 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-group ng-tns-c83-26 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-calendar-container ng-tns-c83-26 ng-star-inserted&quot;]/table[@class=&quot;p-datepicker-calendar ng-tns-c83-26&quot;]/tbody[@class=&quot;ng-tns-c83-26&quot;]/tr[@class=&quot;ng-tns-c83-26 ng-star-inserted&quot;]/td[@class=&quot;ng-tns-c83-26 p-datepicker-today ng-star-inserted&quot;]/span[@class=&quot;p-ripple p-element ng-tns-c83-26 ng-star-inserted&quot;]</value>
+      <webElementGuid>5da83cd0-7626-4282-8125-1c8ec52e30c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[35]</value>
+      <webElementGuid>8c495903-6dc1-4f95-b6c1-2e45f7ca61bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::span[36]</value>
+      <webElementGuid>bb7ecf67-4586-4ccf-8a89-81091313a200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='s/d'])[1]/preceding::span[36]</value>
+      <webElementGuid>059a4d34-d4a7-479d-ac3c-6dc6bd530319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multi Unit'])[1]/preceding::span[41]</value>
+      <webElementGuid>d0e7fb87-580b-4ffe-a114-2bfd5a94dfc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='17']/parent::*</value>
+      <webElementGuid>d57bd5cc-86d7-44e9-b7c9-b22fb4943783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[4]/span</value>
+      <webElementGuid>c80bea76-73bf-49b9-bee6-c4eccc3b8d2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '17' or . = '17')]</value>
+      <webElementGuid>4923ff6d-1460-43d4-9b26-e73714ae7752</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

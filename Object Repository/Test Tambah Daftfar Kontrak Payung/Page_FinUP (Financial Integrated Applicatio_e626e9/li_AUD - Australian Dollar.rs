@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_AUD - Australian Dollar</name>
+   <tag></tag>
+   <elementGuidId>22542452-a99a-48e0-9a7b-7654160f58d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>cb0730a1-3421-4e71-8ee7-62a51ecb97ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>3897a45c-a73c-4d36-ba5b-e56cf7812019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element p-dropdown-item</value>
+      <webElementGuid>ad382758-9c9c-44bf-b70d-fd0bf92bb1aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>AUD - Australian Dollar</value>
+      <webElementGuid>7d2a0834-f4d9-464b-9062-f8020d13194f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2c88784f-912c-488a-a07e-5200d3deb2d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AUD - Australian Dollar</value>
+      <webElementGuid>68db0029-8e03-4c81-9ca1-3fe3738119ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_22_list&quot;)/p-dropdownitem[@class=&quot;p-element ng-tns-c70-31 ng-star-inserted&quot;]/li[@class=&quot;p-ripple p-element p-dropdown-item&quot;]</value>
+      <webElementGuid>72d3d547-c131-4dad-8abe-ca75c43b4aea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='']</value>
+      <webElementGuid>fa42a7ed-ef65-4ae9-a849-b7c3ccc7f840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='pr_id_22_list']/p-dropdownitem[2]/li</value>
+      <webElementGuid>9a44453f-a9d9-45b7-b144-eba49edd4423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Pilih --'])[2]/following::li[1]</value>
+      <webElementGuid>5ae8fa11-c878-485c-b834-93964daf2d7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Pilih --'])[1]/following::li[2]</value>
+      <webElementGuid>2f748cbd-a5f6-4d44-b101-631c2f21ff4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GBP - British Pound'])[1]/preceding::li[1]</value>
+      <webElementGuid>cdb9e202-8e7e-4336-9d4d-3a198bcf5eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dropdownitem[2]/li</value>
+      <webElementGuid>2e51e46b-1cde-4514-a04b-76ac08d9e66e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'AUD - Australian Dollar' or . = 'AUD - Australian Dollar')]</value>
+      <webElementGuid>9bb4a5e2-2575-4d76-a478-13716f0fd65f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

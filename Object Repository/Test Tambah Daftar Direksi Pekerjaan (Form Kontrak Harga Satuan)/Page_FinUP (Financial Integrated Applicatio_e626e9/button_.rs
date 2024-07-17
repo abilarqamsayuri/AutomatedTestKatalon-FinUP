@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>8321f450-25f5-460e-8fac-30a917e5d179</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[12]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-element.p-button-rounded.p-button-text.p-button-success.mr-2.p-button.p-component.p-button-icon-only</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4bf253ff-6da1-46dc-8d42-36857422d3f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>68a36f33-bd24-42cc-929e-954276972a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon</name>
+      <type>Main</type>
+      <value>pi pi-check</value>
+      <webElementGuid>f6698d94-4801-4b59-974a-08c5c0a5a806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-element p-button-rounded p-button-text p-button-success mr-2 p-button p-component p-button-icon-only</value>
+      <webElementGuid>2379253c-f005-44dd-94bf-4836452dc76e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>d344c862-a6e1-41c0-b156-05946f9d3a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_25-table&quot;)/thead[@class=&quot;p-datatable-thead&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/th[@class=&quot;py-0&quot;]/button[@class=&quot;p-element p-button-rounded p-button-text p-button-success mr-2 p-button p-component p-button-icon-only&quot;]</value>
+      <webElementGuid>9030dee3-5dcd-4819-bc0f-6d9d67b44247</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[12]</value>
+      <webElementGuid>de0984a6-89a7-4e78-803d-790cb47da8e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_25-table']/thead/tr[2]/th[2]/button</value>
+      <webElementGuid>ed04c191-cb67-48d3-abf6-cf93f707b1f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direksi Pekerjaan'])[1]/following::button[1]</value>
+      <webElementGuid>ee378085-3ea7-46f7-ab87-8fc34594b73a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/following::button[1]</value>
+      <webElementGuid>9f3d0939-1b0c-4dd5-939e-fd158dad7d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baru Template'])[1]/preceding::button[2]</value>
+      <webElementGuid>7fe9bea0-887f-4648-8281-55dc90630a09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baru'])[2]/preceding::button[3]</value>
+      <webElementGuid>f2a014e5-8c4d-4e52-bac6-bd113e965821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]/button</value>
+      <webElementGuid>91ea7781-9edc-49af-bf66-91e275f04b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' ' or . = ' ')]</value>
+      <webElementGuid>64068acc-4c34-436e-8400-097956be4b1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

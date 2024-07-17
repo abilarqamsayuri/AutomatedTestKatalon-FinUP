@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan dan Keluar</name>
+   <tag></tag>
+   <elementGuidId>b2d02638-cf8a-4036-90c0-a93e0e886150</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-ripple.p-element.p-button-text.p-button.p-component</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e9a25d5a-7785-47bd-8804-8643e7eacaeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element p-button-text p-button p-component</value>
+      <webElementGuid>f037f962-f2e6-466c-a001-08e381eb35e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>ebcd7f83-1f3d-4512-97ef-03ce34665852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan dan Keluar</value>
+      <webElementGuid>41f9647e-d223-4828-aa8b-51503003df29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-payunggw-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/jhi-payung-delivgw-list[1]/div[@class=&quot;grid&quot;]/jhi-payung-deliv-formgw[1]/p-dialog[@class=&quot;p-element ng-tns-c110-42 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-42 p-dialog-mask p-component-overlay p-component-overlay-enter p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;p-element ng-trigger ng-trigger-animation ng-tns-c110-42 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-42 p-dialog-content&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-tns-c110-42&quot;]/div[@class=&quot;grid -mx-1&quot;]/div[@class=&quot;col-12 px-1&quot;]/jhi-payung-termin-listgw[1]/jhi-payung-termin-formgw[1]/p-dialog[@class=&quot;p-element ng-tns-c110-54 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-54 p-dialog-mask p-component-overlay p-component-overlay-enter p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;p-element ng-trigger ng-trigger-animation ng-tns-c110-54 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-54 p-dialog-content&quot;]/form[@class=&quot;ng-valid ng-tns-c110-54 ng-dirty ng-touched&quot;]/div[@class=&quot;grid -mx-1&quot;]/div[6]/p-button[@class=&quot;p-element&quot;]/button[@class=&quot;p-ripple p-element p-button-text p-button p-component&quot;]</value>
+      <webElementGuid>12888f4f-e980-4fa3-9887-38e4f759dd74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>a7040b70-7988-42c5-8e3e-cbf87519ced6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterangan:'])[1]/following::button[1]</value>
+      <webElementGuid>8a835078-010e-43b2-a9d6-a787fdf45d0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jumlah:'])[1]/following::button[1]</value>
+      <webElementGuid>c87feea6-52e3-472f-88e8-7ce83af1c18d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[1]/preceding::button[1]</value>
+      <webElementGuid>035ff236-c848-45c5-be1b-da4ee9cf4fb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-button/button</value>
+      <webElementGuid>d25aebc2-be4e-41ef-85b2-8dde3fb1259b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Simpan dan Keluar' or . = 'Simpan dan Keluar')]</value>
+      <webElementGuid>97eeb6d8-20fd-469c-8750-0e25ae51533f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

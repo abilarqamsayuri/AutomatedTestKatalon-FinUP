@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Yes</name>
+   <tag></tag>
+   <elementGuidId>4d8ad03b-5fdb-4ead-bf53-a9fcc31efb0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-element.p-ripple.ng-tns-c105-23.p-confirm-dialog-accept.p-button.p-component.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6100b974-4b3a-41f8-9467-c80690d45339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c3a7f8d6-e735-4913-85dd-0f278bf00c47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-element p-ripple ng-tns-c105-23 p-confirm-dialog-accept p-button p-component ng-star-inserted</value>
+      <webElementGuid>18b924ca-1d28-45db-8a01-24342a1db366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>d5d5b761-6bb9-4519-b41a-944681176a71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-payunggw-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/p-confirmdialog[@class=&quot;p-element ng-tns-c105-23 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c105-23 ng-star-inserted p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c105-23 p-dialog p-confirm-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-footer ng-tns-c105-23 ng-star-inserted&quot;]/button[@class=&quot;p-element p-ripple ng-tns-c105-23 p-confirm-dialog-accept p-button p-component ng-star-inserted&quot;]</value>
+      <webElementGuid>0eaadd27-db52-4335-a9f8-889c9ad1480b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>5932a328-6d74-4574-badb-ea34a20d5cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::button[1]</value>
+      <webElementGuid>f6974236-133f-49e3-8329-ac4d5e415ea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah anda mau menghapus DO di kontrak dengan no po0001'])[1]/following::button[2]</value>
+      <webElementGuid>164647fd-1837-40ca-9140-f277e1e1aa69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Kontrak Harga Satuan'])[1]/preceding::button[1]</value>
+      <webElementGuid>07163a0e-50a8-4fa9-ab76-e70f86c1d606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>626904e7-a3b7-4aad-83b3-ae8a19296be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>93be128f-3e04-414f-a590-84cb60dfd8a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

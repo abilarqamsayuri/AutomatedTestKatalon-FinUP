@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan dan Keluar</name>
+   <tag></tag>
+   <elementGuidId>9f9f9246-3bd6-43cd-a602-b3646e7a8a4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-element.p-button-sm.p-button-info.p-button.p-component</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9ce41fcf-ed87-44a5-abfd-52410d065b72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>641b1c21-476d-430f-be81-2e0b5b884913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Simpan dan Keluar</value>
+      <webElementGuid>19610bbe-b9e6-4d71-adae-4bd7b1c53cd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon</name>
+      <type>Main</type>
+      <value>pi pi-check</value>
+      <webElementGuid>2762cd6f-3138-452b-936e-4cef95c8d6ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-element p-button-sm p-button-info p-button p-component</value>
+      <webElementGuid>9b088b6e-2712-4629-8f0f-801b5499a953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan dan Keluar</value>
+      <webElementGuid>873c9ee6-fe17-4a23-b90c-926438993763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-payunggw-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-valid ng-submitted ng-untouched ng-pristine&quot;]/p-toolbar[@class=&quot;p-element&quot;]/div[@class=&quot;mt-4 p-toolbar p-component&quot;]/div[@class=&quot;p-toolbar-group-right ng-star-inserted&quot;]/div[@class=&quot;my-2 ng-star-inserted&quot;]/button[@class=&quot;p-element p-button-sm p-button-info p-button p-component&quot;]</value>
+      <webElementGuid>9fba2235-4cf1-4ce8-957d-b42e67ca2bc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>05f35441-15db-4cb1-b05c-e3f6c1f8d94e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/following::button[1]</value>
+      <webElementGuid>8b615077-4da0-40f7-90c7-ded62b1a90c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 0 to 0 of 0 entries'])[2]/following::button[6]</value>
+      <webElementGuid>13f97044-b006-4774-978b-725ed9e972b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cetak'])[1]/preceding::button[1]</value>
+      <webElementGuid>4b8e01ab-98cd-47f2-b28a-5cd3ce6d5b1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-toolbar/div/div/div/button[2]</value>
+      <webElementGuid>59e3b739-fdbe-4fa3-a755-7c5fecbe22c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Simpan dan Keluar' or . = 'Simpan dan Keluar')]</value>
+      <webElementGuid>cf88a8f9-4ae8-4614-a67b-5442892807c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

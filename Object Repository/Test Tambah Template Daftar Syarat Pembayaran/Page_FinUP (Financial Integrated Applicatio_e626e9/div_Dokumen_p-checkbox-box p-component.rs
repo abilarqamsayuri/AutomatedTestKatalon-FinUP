@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dokumen_p-checkbox-box p-component</name>
+   <tag></tag>
+   <elementGuidId>67ce358d-d0c4-42c5-96da-2f6b5625d59f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_30-table']/tbody/tr[2]/td/p-tablecheckbox/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>29b91e72-4876-4cd8-82c5-3c557f712b02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>460f7d18-ffb5-4601-8ec4-e6575dc26f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-checked</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f090150f-e290-49d8-a811-b5a730b3a0dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-checkbox-box p-component</value>
+      <webElementGuid>b2c8fc1a-e033-4ff5-8117-1e0c6cdff635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_30-table&quot;)/tbody[@class=&quot;p-element p-datatable-tbody&quot;]/tr[@class=&quot;p-element p-selectable-row ng-star-inserted&quot;]/td[1]/p-tablecheckbox[@class=&quot;p-element&quot;]/div[@class=&quot;p-checkbox p-component&quot;]/div[@class=&quot;p-checkbox-box p-component&quot;]</value>
+      <webElementGuid>63115cbb-fbeb-47e8-be82-edf3b015f678</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_30-table']/tbody/tr[2]/td/p-tablecheckbox/div/div[2]</value>
+      <webElementGuid>ddc28f1c-4a99-40ed-a33b-d181bb366389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokumen'])[1]/following::div[6]</value>
+      <webElementGuid>1c7937c0-a2e2-479b-b474-b3c63f4c666b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor'])[1]/following::div[6]</value>
+      <webElementGuid>06c69d86-67bd-41e1-a9be-9d1508bf97cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih'])[1]/preceding::div[7]</value>
+      <webElementGuid>df32652a-8196-4aba-9f44-f57d00c3f563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::div[7]</value>
+      <webElementGuid>a41e1a2e-e91a-4b46-99ff-09c1ff00ca66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/p-tablecheckbox/div/div[2]</value>
+      <webElementGuid>42a48e9a-21bc-4b94-b1a6-546f92076237</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

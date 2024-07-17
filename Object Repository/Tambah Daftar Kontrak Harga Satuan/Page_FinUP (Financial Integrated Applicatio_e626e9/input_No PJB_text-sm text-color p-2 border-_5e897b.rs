@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_No PJB_text-sm text-color p-2 border-_5e897b</name>
+   <tag></tag>
+   <elementGuidId>1c8b66c2-4f06-4bb5-8df4-9f564649eba1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[15]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0f91db1b-71b4-48e9-a8f0-fd8671513de1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>338f95c9-e33b-4c0e-b879-34c7f2fc5ac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>noKontrak1</value>
+      <webElementGuid>720ae3b8-b16a-4151-89a2-6d9840746560</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm text-color p-2 border-1 border-solid border-500 appearance-none outline-none focus:border-primary w-full h-custom ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>bd38bc73-e9ee-4d82-b1a0-69ba1f64c1ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-payunggw-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;grid -mx-1&quot;]/div[@class=&quot;col-6 px-1 -mt-6&quot;]/div[@class=&quot;field grid -mx-1&quot;]/div[@class=&quot;px-1 col-5&quot;]/input[@class=&quot;text-sm text-color p-2 border-1 border-solid border-500 appearance-none outline-none focus:border-primary w-full h-custom ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>e7f3160b-9085-4476-bcc4-639ef59bac03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[15]</value>
+      <webElementGuid>1536ae3c-fad3-4c1b-8072-69824fab65a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/input</value>
+      <webElementGuid>889b6743-970f-4372-96f6-f48f63287d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>c40e09bc-bfcb-4777-97b8-08578d7b3cee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

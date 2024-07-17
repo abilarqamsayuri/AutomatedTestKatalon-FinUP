@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih Akses_ng-tns-c117-64 p-multiselec_acd948</name>
+   <tag></tag>
+   <elementGuidId>dafb1e17-b451-42e6-9ed7-3f53bdce4204</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c117-64.p-multiselect-trigger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-tabpanel-6']/form/div/div[2]/p-multiselect/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>52e8a9dc-a0c1-4860-8905-6b643f0fb49b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c117-64 p-multiselect-trigger</value>
+      <webElementGuid>dc02dbec-1727-4204-b724-02900d9c194c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-6&quot;)/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;p-formgrid grid p-fluid&quot;]/div[@class=&quot;field col p-0 ml-1&quot;]/p-multiselect[@class=&quot;p-element p-inputwrapper p-multiselect-sm-custom-0 ng-tns-c117-64 ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c117-64 p-multiselect p-component p-multiselect-chip&quot;]/div[@class=&quot;ng-tns-c117-64 p-multiselect-trigger&quot;]</value>
+      <webElementGuid>1c0c4e91-cc65-4ad4-954a-46d298748ad7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-6']/form/div/div[2]/p-multiselect/div/div[3]</value>
+      <webElementGuid>40d51c07-5624-4e55-98cb-007a8b7b2787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Akses'])[1]/following::div[1]</value>
+      <webElementGuid>92f35eb9-6cb0-41ee-9304-260e85ffec5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akses'])[1]/following::div[5]</value>
+      <webElementGuid>ebcfff94-1cab-47eb-9825-e671f8cfb373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uraian'])[1]/preceding::div[1]</value>
+      <webElementGuid>146f2fcf-059b-4a5e-839c-55562ae843d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File'])[2]/preceding::div[3]</value>
+      <webElementGuid>a789c047-90e7-402a-a010-aa4f39b5a2c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-multiselect/div/div[3]</value>
+      <webElementGuid>b2fef100-8604-4d5b-8858-557e428b6307</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

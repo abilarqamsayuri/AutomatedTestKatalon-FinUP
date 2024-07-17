@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>2d1247c0-f6b8-4890-8326-eb3c5dd1d728</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-element.p-ripple.p-datepicker-trigger.ng-tns-c83-26.p-button.p-component.p-button-icon-only.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>346852dd-dc44-4453-be22-d1af9658ab0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9ca47a0d-ec7e-4c72-ae9e-57a1c7762e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>2524952f-0fbb-413d-a581-06fb7fb94d31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-element p-ripple p-datepicker-trigger ng-tns-c83-26 p-button p-component p-button-icon-only ng-star-inserted</value>
+      <webElementGuid>337c3401-f94a-410b-8dec-e46767f9439c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>c350a7d6-a25c-4e3e-942d-3bd2c721bd40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-payunggw-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;grid -mx-1&quot;]/div[@class=&quot;col-12 px-1 -mt-6&quot;]/div[@class=&quot;field grid -mx-1&quot;]/div[@class=&quot;px-1 col-2 -ml-1&quot;]/p-calendar[@class=&quot;p-element p-inputwrapper calendar-custom ng-tns-c83-26 ng-untouched ng-pristine ng-star-inserted ng-invalid&quot;]/span[@class=&quot;ng-tns-c83-26 p-calendar p-calendar-w-btn&quot;]/button[@class=&quot;p-element p-ripple p-datepicker-trigger ng-tns-c83-26 p-button p-component p-button-icon-only ng-star-inserted&quot;]</value>
+      <webElementGuid>5f23cab4-1d6f-46bf-ae3f-8da87a665553</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>3d58539e-410c-4b1c-8df8-35b730e33f7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jangka waktu berlaku kontrak'])[1]/following::button[1]</value>
+      <webElementGuid>a2b42247-3ec3-44ed-8904-209eb65a563c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Kontrak'])[2]/following::button[1]</value>
+      <webElementGuid>a4da5fd3-186b-4adc-8645-27aad2c840f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='s/d'])[1]/preceding::button[1]</value>
+      <webElementGuid>534251c3-3309-407e-af17-5a7695c559fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multi Unit'])[1]/preceding::button[2]</value>
+      <webElementGuid>4e7d6039-ee4a-4b6b-8614-0e97581fcd34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p-calendar/span/button</value>
+      <webElementGuid>31a924a5-684f-4793-b9fa-9dc16fe912e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' ' or . = ' ')]</value>
+      <webElementGuid>5f9a36b2-8ef0-49ed-8f32-e60c30d4b597</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

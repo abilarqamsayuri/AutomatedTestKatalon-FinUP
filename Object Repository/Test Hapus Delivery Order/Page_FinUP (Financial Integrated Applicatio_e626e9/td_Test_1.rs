@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Test_1</name>
+   <tag></tag>
+   <elementGuidId>938da928-2ad1-4b72-9e0f-c5146f777efa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pr_id_37-table > tbody.p-element.p-datatable-tbody > tr.p-element.p-selectable-row.ng-star-inserted > td:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_37-table']/tbody/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e703073f-27ae-4fce-b453-1ccd0e2f79f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+              Test
+            </value>
+      <webElementGuid>c5deaaa3-90f9-4004-aab6-f35d82dedf07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_37-table&quot;)/tbody[@class=&quot;p-element p-datatable-tbody&quot;]/tr[@class=&quot;p-element p-selectable-row ng-star-inserted&quot;]/td[3]</value>
+      <webElementGuid>0a9b2479-f132-475e-9ec1-332101fb02e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_37-table']/tbody/tr/td[3]</value>
+      <webElementGuid>225468a5-c6ea-403e-a525-709883d656a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PJB2'])[1]/following::td[1]</value>
+      <webElementGuid>23568f1a-2f8f-4c55-a9d3-d1363e008f07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No PO'])[1]/following::td[3]</value>
+      <webElementGuid>f1bfe824-9e07-44ed-aad9-202af562c151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='do0001'])[1]/preceding::td[1]</value>
+      <webElementGuid>6519c254-dbce-4815-a041-78b9589f075a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p-table/div/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>9339b720-ce7a-44fe-a531-94ef792d3dc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+              Test
+            ' or . = '
+              Test
+            ')]</value>
+      <webElementGuid>e6ad3ac3-e820-42a2-a716-959f3c42bdc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Syarat Pembayaran_text-sm text-color _bc71e6</name>
+   <tag></tag>
+   <elementGuidId>24bb2d48-c6e5-4745-bc91-8fa6cec26a9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[26]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>80ed285c-9e4f-4e7f-a22b-174c96344f60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>28be6b37-f2d8-4a90-87f1-0f753d057d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm text-color p-2 border-1 border-solid border-500 appearance-none outline-none focus:border-primary w-full h-custom ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>82188e26-e46d-4a4d-9578-93c1ca652995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_27-table&quot;)/thead[@class=&quot;p-datatable-thead&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/th[@class=&quot;py-0&quot;]/input[@class=&quot;text-sm text-color p-2 border-1 border-solid border-500 appearance-none outline-none focus:border-primary w-full h-custom ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>62ba96a7-84e9-4a27-b06b-fcb583524b8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[26]</value>
+      <webElementGuid>c5d4d28b-a67e-4160-a809-e8041f8db3be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_27-table']/thead/tr[2]/th[3]/input</value>
+      <webElementGuid>9d1964bf-c84a-497c-9e3b-5620d7bb2590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]/input</value>
+      <webElementGuid>b1d1ec8f-c1df-4a4c-bce4-83dcff1f6270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>a8673a42-81dc-45f5-b20f-450a570e67fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

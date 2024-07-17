@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Choose</name>
+   <tag></tag>
+   <elementGuidId>13529bd5-6232-4cce-95f5-390f8dea67c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-ripple.p-element.p-button.p-component.p-fileupload-choose.p-focus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-tabpanel-6']/form/div[3]/div/p-fileupload/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9553b23e-31bc-4232-9188-1104bcf0d4f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>5a4e0395-9ccd-42a2-97c4-213d21c8453c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element p-button p-component p-fileupload-choose p-focus</value>
+      <webElementGuid>d56197e0-b332-4097-b593-dd90149da81a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose</value>
+      <webElementGuid>a0c3b163-e797-49be-bf6c-4aa716770004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-6&quot;)/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;p-formgrid grid p-fluid ng-star-inserted&quot;]/div[@class=&quot;field col&quot;]/p-fileupload[@class=&quot;p-element p-fileupload-custom&quot;]/div[@class=&quot;p-fileupload p-fileupload-advanced p-component ng-star-inserted&quot;]/div[@class=&quot;p-fileupload-buttonbar&quot;]/span[@class=&quot;p-ripple p-element p-button p-component p-fileupload-choose p-focus&quot;]</value>
+      <webElementGuid>748b3173-4c11-44cb-9753-2002fe9ea8b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-6']/form/div[3]/div/p-fileupload/div/div/span</value>
+      <webElementGuid>924df584-ec55-4280-a8cd-87a9f50915ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File'])[2]/following::span[1]</value>
+      <webElementGuid>6c8c38b0-4a8f-4dc3-a2a5-d7712900ec1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uraian'])[1]/following::span[1]</value>
+      <webElementGuid>749d0b9c-baaa-4f33-99f6-50e5a32b6d0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[5]</value>
+      <webElementGuid>efa9cd77-8238-4246-86ae-965f4a6ffd64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-fileupload/div/div/span</value>
+      <webElementGuid>de5a2fa8-177f-4078-8a97-7584b67c7e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Choose' or . = 'Choose')]</value>
+      <webElementGuid>5f4e3872-87b9-40ca-a302-8cc093061091</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

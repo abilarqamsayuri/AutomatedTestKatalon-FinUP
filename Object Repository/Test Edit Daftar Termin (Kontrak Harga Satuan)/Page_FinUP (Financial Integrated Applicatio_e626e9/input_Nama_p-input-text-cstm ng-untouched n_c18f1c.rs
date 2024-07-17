@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nama_p-input-text-cstm ng-untouched n_c18f1c</name>
+   <tag></tag>
+   <elementGuidId>c74f512d-5aa0-4b13-b60f-2e2d94ae81a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c110-54.p-dialog-content > form[name=&quot;editForm&quot;] > div.grid.-mx-1 > div.col-12.px-1 > div.field.grid.-mx-1 > div.px-1.col > input.p-input-text-cstm.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[50]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>80226c7a-1c25-483e-9c3b-a1d0fdd0d8ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1a36a226-8ed6-469e-9d8e-5e85c0b9bdb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>nama</value>
+      <webElementGuid>25bc4fa5-b7a8-41e2-96af-fe33a2be5b52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-input-text-cstm ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>acf2fddd-97b5-4fdd-8a11-7c041db1c751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-payunggw-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/jhi-payung-delivgw-list[1]/div[@class=&quot;grid&quot;]/jhi-payung-deliv-formgw[1]/p-dialog[@class=&quot;p-element ng-tns-c110-42 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-42 p-dialog-mask p-component-overlay p-component-overlay-enter p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;p-element ng-trigger ng-trigger-animation ng-tns-c110-42 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-42 p-dialog-content&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-tns-c110-42&quot;]/div[@class=&quot;grid -mx-1&quot;]/div[@class=&quot;col-12 px-1&quot;]/jhi-payung-termin-listgw[1]/jhi-payung-termin-formgw[1]/p-dialog[@class=&quot;p-element ng-tns-c110-54 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-54 p-dialog-mask p-component-overlay p-component-overlay-enter p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;p-element ng-trigger ng-trigger-animation ng-tns-c110-54 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-54 p-dialog-content&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-tns-c110-54&quot;]/div[@class=&quot;grid -mx-1&quot;]/div[@class=&quot;col-12 px-1&quot;]/div[@class=&quot;field grid -mx-1&quot;]/div[@class=&quot;px-1 col&quot;]/input[@class=&quot;p-input-text-cstm ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>e7d32e2a-69f9-48cc-8bb5-37604b1ab936</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[50]</value>
+      <webElementGuid>c1fa08b2-5075-4c9e-bb75-4d563afdfaa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//jhi-payung-termin-formgw/p-dialog/div/div/div[2]/form/div/div/div/div[3]/input</value>
+      <webElementGuid>0bb84af8-6dba-4468-bfe4-ae5acfd4a82c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>130dbf31-d70c-459f-a4dc-c13e0c34a672</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

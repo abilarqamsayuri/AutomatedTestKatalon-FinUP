@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_-- Pilih --_p-dropdown-trigger ng-tns-c70-25</name>
+   <tag></tag>
+   <elementGuidId>8d5a7ced-6cb9-485e-a091-b603e4556b46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-dropdown-trigger.ng-tns-c70-25</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-dropdown[@id='jenisKontrak']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b28ac308-537d-4d1d-b535-95da54220d0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0b87ab8a-77ae-4eb0-971d-c66b3e5b3d58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>dropdown trigger</value>
+      <webElementGuid>d05993d2-51a6-46a2-a822-75f83e0fc38b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>listbox</value>
+      <webElementGuid>8fc39bf9-8e94-4f85-8b9c-fe7b9afdee95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-trigger ng-tns-c70-25</value>
+      <webElementGuid>dfcc97d9-839d-45d7-abf8-35365458f2e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jenisKontrak&quot;)/div[@class=&quot;ng-tns-c70-25 p-dropdown p-component p-dropdown-clearable&quot;]/div[@class=&quot;p-dropdown-trigger ng-tns-c70-25&quot;]</value>
+      <webElementGuid>8f813d80-c40f-402a-b50b-69ce5ad5dfc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-dropdown[@id='jenisKontrak']/div/div[2]</value>
+      <webElementGuid>8b568948-c962-4c72-b868-e561e980c563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Pilih --'])[1]/following::div[1]</value>
+      <webElementGuid>354d9291-8f77-428e-a2eb-cba5ec360e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Kontrak'])[2]/following::div[4]</value>
+      <webElementGuid>0162d47d-06d3-4d34-a461-4a87da9c2dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jangka waktu berlaku kontrak'])[1]/preceding::div[1]</value>
+      <webElementGuid>04c2c22d-a018-4662-a706-c47442834417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='s/d'])[1]/preceding::div[2]</value>
+      <webElementGuid>96217a64-7533-473d-9e4b-af0a310e2d13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dropdown/div/div[2]</value>
+      <webElementGuid>d300e2d9-a733-44bc-b83b-6e62fbc765dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_test</name>
+   <tag></tag>
+   <elementGuidId>217f1f62-3746-4519-9ec7-60ca2677ad28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pr_id_33-table > tbody.p-element.p-datatable-tbody > tr.p-element.p-selectable-row.ng-star-inserted > td:nth-of-type(4)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_33-table']/tbody/tr/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>2310eef0-b1ff-45c1-bd8a-66fa2d2341ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>test</value>
+      <webElementGuid>faea8474-5c36-4cda-82cb-654b5eab615c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_33-table&quot;)/tbody[@class=&quot;p-element p-datatable-tbody&quot;]/tr[@class=&quot;p-element p-selectable-row ng-star-inserted&quot;]/td[4]</value>
+      <webElementGuid>f34bbcbe-42a0-4eec-88e8-c9accaa64963</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_33-table']/tbody/tr/td[4]</value>
+      <webElementGuid>e8b15a5d-cf3a-4475-9294-2098accd402f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/following::td[1]</value>
+      <webElementGuid>73665ba5-75b1-454c-ad37-8616d862367e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterangan'])[2]/following::td[4]</value>
+      <webElementGuid>c7dc67de-4d29-456a-aefe-a98d7edc8704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Kontrak'])[1]/preceding::td[3]</value>
+      <webElementGuid>e0a76f06-970e-4d3a-a07e-8aa57c45b682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Kontrak'])[2]/preceding::td[4]</value>
+      <webElementGuid>4ffffe7c-168b-4a09-9714-caf820f4ca5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//jhi-payung-dokpostkontrak-listgw/p-table/div/div/table/tbody/tr/td[4]</value>
+      <webElementGuid>bf16bb1c-15f0-4b4d-a046-e2524e0b10b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'test' or . = 'test')]</value>
+      <webElementGuid>4f1950bf-63e2-4baf-bcb8-d7f1d39b9df9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

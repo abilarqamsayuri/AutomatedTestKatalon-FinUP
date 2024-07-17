@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>f73763ab-8df9-4d2f-a9f8-26f2d3197d7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-element.p-ripple.p-datepicker-trigger.ng-tns-c83-45.p-button.p-component.p-button-icon-only.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[34]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a3128081-2ae2-4a5b-b523-e8054b06a3c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>135a1438-fdbb-4d95-8691-ae0a6b6476d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>367fc001-1ccc-4922-a2c5-347e17452f4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-element p-ripple p-datepicker-trigger ng-tns-c83-45 p-button p-component p-button-icon-only ng-star-inserted</value>
+      <webElementGuid>83e74c2c-de08-46ae-89f5-c4a6cad36989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>748a1836-8593-459a-9168-f5bbac9b04bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-payunggw-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/jhi-payung-delivgw-list[1]/div[@class=&quot;grid&quot;]/jhi-payung-deliv-formgw[1]/p-dialog[@class=&quot;p-element ng-tns-c110-42 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-42 p-dialog-mask p-component-overlay p-component-overlay-enter p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;p-element ng-trigger ng-trigger-animation ng-tns-c110-42 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-42 p-dialog-content&quot;]/form[@class=&quot;ng-invalid ng-tns-c110-42 ng-dirty ng-touched&quot;]/div[@class=&quot;grid -mx-1&quot;]/div[@class=&quot;col-6 px-1 -mt-6&quot;]/div[@class=&quot;field grid -mx-1&quot;]/div[@class=&quot;px-1 col&quot;]/p-calendar[@class=&quot;p-element p-inputwrapper calendar-custom ng-tns-c83-45 ng-untouched ng-pristine ng-star-inserted ng-invalid&quot;]/span[@class=&quot;ng-tns-c83-45 p-calendar p-calendar-w-btn&quot;]/button[@class=&quot;p-element p-ripple p-datepicker-trigger ng-tns-c83-45 p-button p-component p-button-icon-only ng-star-inserted&quot;]</value>
+      <webElementGuid>bcec6dce-a7a0-4dfc-89fb-d5abe6440e0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[34]</value>
+      <webElementGuid>1d5491c5-f41f-463b-8abb-1e90ec096078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tgl'])[3]/following::button[1]</value>
+      <webElementGuid>e45c6c10-5b60-4743-a841-4c69173d7685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No DO'])[2]/following::button[1]</value>
+      <webElementGuid>22208975-f8ce-4fbe-b002-7f35ba80822b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kuota DO'])[2]/preceding::button[1]</value>
+      <webElementGuid>20f3e1d3-5969-401a-9d7b-95352aa41c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='empty'])[2]/preceding::button[1]</value>
+      <webElementGuid>9d1d376d-2bb1-491e-a707-0913afb2c779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/p-calendar/span/button</value>
+      <webElementGuid>33be8ea8-709c-47a7-8420-d37101eda248</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' ' or . = ' ')]</value>
+      <webElementGuid>e6bc4319-7c4c-465f-9c1e-aff9124ae590</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

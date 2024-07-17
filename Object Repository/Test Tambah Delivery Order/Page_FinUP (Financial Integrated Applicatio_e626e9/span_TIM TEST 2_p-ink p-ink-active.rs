@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TIM TEST 2_p-ink p-ink-active</name>
+   <tag></tag>
+   <elementGuidId>060ee1e5-d8da-455c-8c23-7f3d8398f052</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-ink.p-ink-active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='pr_id_43_list']/p-dropdownitem[2]/li/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8a22e274-9247-486b-8bdf-9d65c4608721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ink p-ink-active</value>
+      <webElementGuid>4f5fb9da-43e3-484f-8b80-7f880ad3902e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_43_list&quot;)/p-dropdownitem[@class=&quot;p-element ng-tns-c70-50 ng-star-inserted&quot;]/li[@class=&quot;p-ripple p-element p-dropdown-item&quot;]/span[@class=&quot;p-ink p-ink-active&quot;]</value>
+      <webElementGuid>c0c01871-d595-4565-9b0c-45f9822de15e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='pr_id_43_list']/p-dropdownitem[2]/li/span[2]</value>
+      <webElementGuid>7629864b-bfca-4469-9a44-6564b7f13e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dropdownitem[2]/li/span[2]</value>
+      <webElementGuid>bcbd8ae0-e6be-4dc9-a4c2-65cec07e5920</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

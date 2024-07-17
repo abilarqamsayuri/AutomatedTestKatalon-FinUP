@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>d7e0dda7-7a98-40f1-9fdc-5e909f8bb437</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[55]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>12995a7a-35c5-4e46-9a7f-071ab5d6a310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d7f0a593-835d-4612-a678-0c570ef2a4e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon</name>
+      <type>Main</type>
+      <value>pi pi-trash</value>
+      <webElementGuid>5cea2338-9604-47ff-a1d9-2482c32138ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-element p-button-warning p-button-icon-only p-button p-component</value>
+      <webElementGuid>238963b1-5325-41b6-8253-340a2af5d87b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>fd46a38d-e459-49f3-8bd6-45478a9a4c3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_66-table&quot;)/tbody[@class=&quot;p-element p-datatable-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[6]/div[@class=&quot;flex&quot;]/button[@class=&quot;p-element p-button-warning p-button-icon-only p-button p-component&quot;]</value>
+      <webElementGuid>1123ec04-d4e6-41c9-a10b-43e51cec4b56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[55]</value>
+      <webElementGuid>125b95bb-4799-45f7-821f-39f258989d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_66-table']/tbody/tr[2]/td[6]/div/button[3]</value>
+      <webElementGuid>49ac78a6-7b82-4215-a40c-dc1d380bb853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RUU Cipta Kerja.pdf'])[2]/following::button[3]</value>
+      <webElementGuid>03c6cf93-bb35-4265-9e21-64edc1f217a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='do tujuh'])[1]/following::button[3]</value>
+      <webElementGuid>02cf0ab4-7f00-4e66-9820-9a0abdd70a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='do satu'])[1]/preceding::button[1]</value>
+      <webElementGuid>3a3210e7-8c68-462d-b14c-6e5d24c22ede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RUU Cipta Kerja.pdf'])[3]/preceding::button[1]</value>
+      <webElementGuid>663b6428-71c1-419e-98d2-afba2a875eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[6]/div/button[3]</value>
+      <webElementGuid>b1db2fc1-aac1-4638-a0e2-c9a3ed7e40a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' ' or . = ' ')]</value>
+      <webElementGuid>d13d509d-a56c-4156-b91a-46b3109a5f42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

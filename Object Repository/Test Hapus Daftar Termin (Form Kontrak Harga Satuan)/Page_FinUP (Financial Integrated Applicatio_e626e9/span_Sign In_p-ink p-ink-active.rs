@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign In_p-ink p-ink-active</name>
+   <tag></tag>
+   <elementGuidId>f2c3824d-0946-4a17-a816-55b7b3a89dad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-ink.p-ink-active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f7394c9d-8030-4662-bf30-df74b35a19f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ink p-ink-active</value>
+      <webElementGuid>fcca22e0-bfff-45fc-bc7a-209d9ad9812c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/jhi-root[1]/jhi-logingw[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;background-login surface-ground h-screen w-screen flex align-items-center justify-content-center&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;surface-card py-7 px-5 sm:px-7 shadow-2 flex flex-column w-11 sm:w-30rem&quot;]/div[4]/button[@class=&quot;p-element p-ripple mb-4 flex justify-content-center p-button p-component&quot;]/span[@class=&quot;p-ink p-ink-active&quot;]</value>
+      <webElementGuid>e0f895d4-6c67-41f0-9c4b-e830346284a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span[2]</value>
+      <webElementGuid>cfcfaa3f-0aa2-41b6-b584-7f9c724d5126</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

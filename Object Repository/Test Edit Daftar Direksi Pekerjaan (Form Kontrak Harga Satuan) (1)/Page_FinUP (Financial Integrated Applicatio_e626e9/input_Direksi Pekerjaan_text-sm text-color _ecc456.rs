@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Direksi Pekerjaan_text-sm text-color _ecc456</name>
+   <tag></tag>
+   <elementGuidId>72b3b9c5-ded2-42ac-a3fa-65a152c6a9ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[24]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ca39e165-bfcf-4fbf-98c7-039db577fa95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>30a297a8-f15e-47c8-9ae9-d875682bfa72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm text-color p-2 border-1 border-solid border-500 appearance-none outline-none focus:border-primary w-full h-custom ng-untouched ng-pristine ng-valid ng-star-inserted</value>
+      <webElementGuid>632e06d1-bae0-45cb-bcfa-54c0eb89d24c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_25-table&quot;)/tbody[@class=&quot;p-element p-datatable-tbody&quot;]/tr[@class=&quot;p-element p-selectable-row ng-star-inserted&quot;]/td[@class=&quot;py-0&quot;]/p-celleditor[@class=&quot;p-element&quot;]/input[@class=&quot;text-sm text-color p-2 border-1 border-solid border-500 appearance-none outline-none focus:border-primary w-full h-custom ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]</value>
+      <webElementGuid>8ce0a8a4-96dd-46e9-beb7-09622b0743f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[24]</value>
+      <webElementGuid>398fba4a-f83f-48ee-8391-4f2be691d8e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_25-table']/tbody/tr/td/p-celleditor/input</value>
+      <webElementGuid>ab4b6f75-db9e-428e-aa56-ab32a2d6a38d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-celleditor/input</value>
+      <webElementGuid>c8206889-76f0-43e9-9a18-06a0c40eaea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>9f16b044-dfad-486e-ba89-3917cac4c310</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
