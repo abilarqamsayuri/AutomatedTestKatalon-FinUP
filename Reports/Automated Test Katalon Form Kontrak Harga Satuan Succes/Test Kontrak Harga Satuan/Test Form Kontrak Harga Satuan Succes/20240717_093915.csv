@@ -1,0 +1,789 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Kontrak Harga Satuan,Chrome 126.0.0.0,,,2024-07-17 09:39:22,2024-07-17 10:07:44,28m - 21.467s,PASSED
+,,,,,,,
+Test Cases/Login,Chrome 126.0.0.0,,,2024-07-17 09:39:23,2024-07-17 09:40:20,56.857s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:39:24,2024-07-17 09:39:31,6.546s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:39:31,2024-07-17 09:39:34,3.430s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:39:34,2024-07-17 09:39:35,1.331s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:39:35,2024-07-17 09:39:36,0.915s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:39:36,2024-07-17 09:39:37,0.655s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:39:37,2024-07-17 09:39:38,0.723s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Login/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:39:38,2024-07-17 09:40:08,30.883s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:40:08,2024-07-17 09:40:19,10.126s,PASSED
+takeFullPageScreenshot(STOP_ON_FAILURE),Chrome 126.0.0.0,,,2024-07-17 09:40:19,2024-07-17 09:40:20,1.141s,PASSED
+,,,,,,,
+Test Cases/Form Kontrak Payung/Test Tambah Daftar Kontrak Payung,Chrome 126.0.0.0,,,2024-07-17 09:40:20,2024-07-17 09:41:43,1m - 22.923s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:40:21,2024-07-17 09:40:24,3.142s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:40:24,2024-07-17 09:40:26,1.557s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:40:26,2024-07-17 09:40:29,3.092s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:40:29,2024-07-17 09:40:29,0.563s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:40:29,2024-07-17 09:40:30,0.616s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:40:30,2024-07-17 09:40:30,0.530s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:40:30,2024-07-17 09:41:02,31.663s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:41:02,2024-07-17 09:41:12,10.010s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:12,2024-07-17 09:41:13,0.913s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:41:13,2024-07-17 09:41:14,0.530s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:14,2024-07-17 09:41:15,1.184s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:41:15,2024-07-17 09:41:15,0.452s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:15,2024-07-17 09:41:16,0.660s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Baru""))",Chrome 126.0.0.0,,,2024-07-17 09:41:16,2024-07-17 09:41:17,0.947s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:17,2024-07-17 09:41:17,0.665s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/div_-- Pilih --_p-dropdown-trigger ng-tns-c70-25""))",Chrome 126.0.0.0,,,2024-07-17 09:41:17,2024-07-17 09:41:18,0.464s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:18,2024-07-17 09:41:18,0.502s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/li_1 - Jenis 003""))",Chrome 126.0.0.0,,,2024-07-17 09:41:18,2024-07-17 09:41:19,0.490s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:19,2024-07-17 09:41:19,0.483s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_""))",Chrome 126.0.0.0,,,2024-07-17 09:41:19,2024-07-17 09:41:20,0.497s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:20,2024-07-17 09:41:20,0.535s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/span_17""))",Chrome 126.0.0.0,,,2024-07-17 09:41:20,2024-07-17 09:41:21,0.634s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:21,2024-07-17 09:41:22,0.542s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_""))",Chrome 126.0.0.0,,,2024-07-17 09:41:22,2024-07-17 09:41:22,0.742s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:22,2024-07-17 09:41:23,0.516s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/span_17""))",Chrome 126.0.0.0,,,2024-07-17 09:41:23,2024-07-17 09:41:24,1.098s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:24,2024-07-17 09:41:25,0.496s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_""))",Chrome 126.0.0.0,,,2024-07-17 09:41:25,2024-07-17 09:41:25,0.504s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:25,2024-07-17 09:41:26,0.615s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Cari Rekanan_p-inputtext p-component _4141d4""), ""juanda"")",Chrome 126.0.0.0,,,2024-07-17 09:41:26,2024-07-17 09:41:26,0.798s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:26,2024-07-17 09:41:27,0.907s,PASSED
+"doubleClick(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/td_BANDARA JUANDA""))",Chrome 126.0.0.0,,,2024-07-17 09:41:27,2024-07-17 09:41:28,0.784s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:28,2024-07-17 09:41:29,0.467s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Judul Kontrak_judulKontrak""), ""Test"")",Chrome 126.0.0.0,,,2024-07-17 09:41:29,2024-07-17 09:41:29,0.763s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:29,2024-07-17 09:41:30,0.466s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No PJB_text-sm text-color p-2 border-_5e897b""), ""0001"")",Chrome 126.0.0.0,,,2024-07-17 09:41:30,2024-07-17 09:41:31,0.870s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:31,2024-07-17 09:41:31,0.488s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_""))",Chrome 126.0.0.0,,,2024-07-17 09:41:31,2024-07-17 09:41:32,0.496s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:32,2024-07-17 09:41:32,0.566s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/span_17""))",Chrome 126.0.0.0,,,2024-07-17 09:41:32,2024-07-17 09:41:33,0.419s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:33,2024-07-17 09:41:33,0.555s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_""))",Chrome 126.0.0.0,,,2024-07-17 09:41:33,2024-07-17 09:41:34,0.489s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:34,2024-07-17 09:41:34,0.561s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/span_17""))",Chrome 126.0.0.0,,,2024-07-17 09:41:34,2024-07-17 09:41:35,1.029s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:35,2024-07-17 09:41:36,0.587s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/div_-- Pilih --_p-dropdown-trigger ng-tns-c70-31""))",Chrome 126.0.0.0,,,2024-07-17 09:41:36,2024-07-17 09:41:37,0.726s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:37,2024-07-17 09:41:37,0.775s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/li_AUD - Australian Dollar""))",Chrome 126.0.0.0,,,2024-07-17 09:41:37,2024-07-17 09:41:38,0.525s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:38,2024-07-17 09:41:38,0.504s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No PJB_text-sm text-color p-2 border-_5e897b""), ""Test"")",Chrome 126.0.0.0,,,2024-07-17 09:41:38,2024-07-17 09:41:39,0.762s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:39,2024-07-17 09:41:40,0.484s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/div_-- Pilih --_p-dropdown-trigger ng-tns-c70-32""))",Chrome 126.0.0.0,,,2024-07-17 09:41:40,2024-07-17 09:41:40,0.526s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:40,2024-07-17 09:41:41,0.491s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/li_pelaksana 1""))",Chrome 126.0.0.0,,,2024-07-17 09:41:41,2024-07-17 09:41:41,0.567s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:41,2024-07-17 09:41:42,0.492s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftfar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 09:41:42,2024-07-17 09:41:42,0.460s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:42,2024-07-17 09:41:43,0.479s,PASSED
+,,,,,,,
+Test Cases/Form Kontrak Payung/Test Edit Daftar Kontrak Payung,Chrome 126.0.0.0,,,2024-07-17 09:41:43,2024-07-17 09:42:46,1m - 3.682s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:41:43,2024-07-17 09:41:47,3.879s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:41:47,2024-07-17 09:41:50,2.370s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Daftar Kontra Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:41:50,2024-07-17 09:41:51,1.278s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:51,2024-07-17 09:41:51,0.495s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Edit Daftar Kontra Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:41:51,2024-07-17 09:41:52,0.673s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:41:52,2024-07-17 09:41:53,0.449s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Daftar Kontra Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:41:53,2024-07-17 09:42:24,31.496s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:42:24,2024-07-17 09:42:34,10.017s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:42:34,2024-07-17 09:42:35,1.038s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Kontra Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:42:35,2024-07-17 09:42:36,0.500s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:42:36,2024-07-17 09:42:37,1.480s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Daftar Kontra Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:42:37,2024-07-17 09:42:38,0.538s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:42:38,2024-07-17 09:42:38,0.816s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Daftar Kontra Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/td""))",Chrome 126.0.0.0,,,2024-07-17 09:42:38,2024-07-17 09:42:39,0.484s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:42:39,2024-07-17 09:42:40,0.562s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Kontra Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 09:42:40,2024-07-17 09:42:40,0.455s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:42:40,2024-07-17 09:42:41,0.774s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Daftar Kontra Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No PJB_text-sm text-color p-2 border-_38856d""), ""Test"")",Chrome 126.0.0.0,,,2024-07-17 09:42:41,2024-07-17 09:42:42,0.837s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:42:42,2024-07-17 09:42:42,0.509s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Daftar Kontra Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Limit Kuota_integeronly""), ""2"")",Chrome 126.0.0.0,,,2024-07-17 09:42:42,2024-07-17 09:42:43,0.867s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:42:43,2024-07-17 09:42:43,0.502s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Kontra Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Limit Kuota_integeronly""))",Chrome 126.0.0.0,,,2024-07-17 09:42:43,2024-07-17 09:42:44,0.440s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:42:44,2024-07-17 09:42:44,0.478s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Kontra Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 09:42:44,2024-07-17 09:42:45,0.472s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:42:45,2024-07-17 09:42:45,0.491s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Kontra Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan dan Keluar""))",Chrome 126.0.0.0,,,2024-07-17 09:42:45,2024-07-17 09:42:46,0.421s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:42:46,2024-07-17 09:42:46,0.600s,PASSED
+,,,,,,,
+Test Cases/Form Kontrak Payung/Test Hapus Daftar Kontrak Payung,Chrome 126.0.0.0,,,2024-07-17 09:42:46,2024-07-17 09:43:43,56.373s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:42:47,2024-07-17 09:42:51,3.534s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:42:51,2024-07-17 09:42:52,1.563s,PASSED
+"setText(findTestObject(""Object Repository/Test Hapus Daftar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:42:52,2024-07-17 09:42:53,1.103s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:42:53,2024-07-17 09:42:54,0.416s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Hapus Daftar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:42:54,2024-07-17 09:42:54,0.591s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:42:54,2024-07-17 09:42:55,0.460s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:42:55,2024-07-17 09:43:26,30.922s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:43:26,2024-07-17 09:43:36,10.018s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:43:36,2024-07-17 09:43:37,0.914s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:43:37,2024-07-17 09:43:37,0.487s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:43:37,2024-07-17 09:43:38,0.959s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:43:38,2024-07-17 09:43:39,0.752s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:43:39,2024-07-17 09:43:39,0.548s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/td""))",Chrome 126.0.0.0,,,2024-07-17 09:43:39,2024-07-17 09:43:40,0.974s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:43:40,2024-07-17 09:43:41,0.499s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Hapus""))",Chrome 126.0.0.0,,,2024-07-17 09:43:41,2024-07-17 09:43:41,0.459s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:43:41,2024-07-17 09:43:42,0.569s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Kontrak Payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Yes""))",Chrome 126.0.0.0,,,2024-07-17 09:43:42,2024-07-17 09:43:42,0.443s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:43:42,2024-07-17 09:43:43,0.550s,PASSED
+,,,,,,,
+Test Cases/Form Direksi/Test Tambah Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan),Chrome 126.0.0.0,,,2024-07-17 09:43:43,2024-07-17 09:44:44,1m - 1.540s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:43:43,2024-07-17 09:43:46,2.794s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:43:46,2024-07-17 09:43:49,2.740s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:43:49,2024-07-17 09:43:50,1.112s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:43:50,2024-07-17 09:43:51,1.093s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Tambah Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:43:51,2024-07-17 09:43:52,0.673s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:43:52,2024-07-17 09:43:53,0.817s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:43:53,2024-07-17 09:44:24,31.025s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:44:24,2024-07-17 09:44:34,10.010s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:44:34,2024-07-17 09:44:34,0.924s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:44:34,2024-07-17 09:44:35,0.453s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:44:35,2024-07-17 09:44:37,1.630s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:44:37,2024-07-17 09:44:37,0.558s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:44:37,2024-07-17 09:44:38,0.497s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 09:44:38,2024-07-17 09:44:38,0.745s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:44:38,2024-07-17 09:44:39,0.485s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 09:44:39,2024-07-17 09:44:39,0.412s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:44:39,2024-07-17 09:44:40,0.918s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Baru""))",Chrome 126.0.0.0,,,2024-07-17 09:44:40,2024-07-17 09:44:41,0.460s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:44:41,2024-07-17 09:44:41,0.504s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Direksi Pekerjaan_text-sm text-color _d6e632""), ""Test"")",Chrome 126.0.0.0,,,2024-07-17 09:44:41,2024-07-17 09:44:42,0.821s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:44:42,2024-07-17 09:44:42,0.498s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_""))",Chrome 126.0.0.0,,,2024-07-17 09:44:42,2024-07-17 09:44:43,0.446s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:44:43,2024-07-17 09:44:43,0.460s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 09:44:43,2024-07-17 09:44:44,0.405s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:44:44,2024-07-17 09:44:44,0.510s,PASSED
+,,,,,,,
+Test Cases/Form Direksi/Test Edit Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan),Chrome 126.0.0.0,,,2024-07-17 09:44:44,2024-07-17 09:45:44,59.850s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:44:45,2024-07-17 09:44:48,3.008s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:44:48,2024-07-17 09:44:50,1.610s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:44:50,2024-07-17 09:44:51,1.101s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:44:51,2024-07-17 09:44:51,0.526s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Edit Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_141562""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:44:51,2024-07-17 09:44:52,0.513s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:44:52,2024-07-17 09:44:52,0.604s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:44:52,2024-07-17 09:45:24,31.522s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:45:24,2024-07-17 09:45:34,10.005s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:45:34,2024-07-17 09:45:35,0.909s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:45:35,2024-07-17 09:45:35,0.435s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:45:35,2024-07-17 09:45:37,1.171s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:45:37,2024-07-17 09:45:37,0.520s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:45:37,2024-07-17 09:45:38,0.552s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/td""))",Chrome 126.0.0.0,,,2024-07-17 09:45:38,2024-07-17 09:45:38,0.649s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:45:38,2024-07-17 09:45:39,0.458s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 09:45:39,2024-07-17 09:45:39,0.426s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:45:39,2024-07-17 09:45:40,0.729s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_""))",Chrome 126.0.0.0,,,2024-07-17 09:45:40,2024-07-17 09:45:40,0.421s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:45:40,2024-07-17 09:45:41,0.524s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Direksi Pekerjaan_text-sm text-color _ecc456""), ""Test Direksi Pekerjaan"")",Chrome 126.0.0.0,,,2024-07-17 09:45:41,2024-07-17 09:45:42,0.943s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:45:42,2024-07-17 09:45:42,0.463s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_""))",Chrome 126.0.0.0,,,2024-07-17 09:45:42,2024-07-17 09:45:43,0.510s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:45:43,2024-07-17 09:45:43,0.476s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 09:45:43,2024-07-17 09:45:44,0.467s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:45:44,2024-07-17 09:45:44,0.501s,PASSED
+,,,,,,,
+Test Cases/Form Direksi/Test Hapus Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan),Chrome 126.0.0.0,,,2024-07-17 09:45:44,2024-07-17 09:46:34,49.748s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:45:45,2024-07-17 09:45:47,2.537s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:45:47,2024-07-17 09:45:49,1.851s,PASSED
+"setText(findTestObject(""Object Repository/Test Hapus Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:45:49,2024-07-17 09:45:51,1.238s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:45:51,2024-07-17 09:45:51,0.471s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Hapus Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:45:51,2024-07-17 09:45:52,0.571s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:45:52,2024-07-17 09:45:52,0.442s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:45:52,2024-07-17 09:46:24,31.576s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:46:24,2024-07-17 09:46:24,0.469s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:46:24,2024-07-17 09:46:25,1.213s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:46:25,2024-07-17 09:46:26,1.152s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:46:26,2024-07-17 09:46:27,0.567s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:46:27,2024-07-17 09:46:28,0.631s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 09:46:28,2024-07-17 09:46:28,0.882s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:46:28,2024-07-17 09:46:29,0.583s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 09:46:29,2024-07-17 09:46:29,0.433s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:46:29,2024-07-17 09:46:31,1.176s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/body_Back to Landing Page                  _0071a5""))",Chrome 126.0.0.0,,,2024-07-17 09:46:31,2024-07-17 09:46:31,0.758s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:46:31,2024-07-17 09:46:32,0.554s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Hapus""))",Chrome 126.0.0.0,,,2024-07-17 09:46:32,2024-07-17 09:46:33,0.519s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:46:33,2024-07-17 09:46:33,0.478s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Direksi Pekerjaan (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 09:46:33,2024-07-17 09:46:33,0.443s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:46:33,2024-07-17 09:46:34,0.500s,PASSED
+,,,,,,,
+Test Cases/Form Syarat Pembayaran/Test Tambah Daftar Syarat Pembayaran,Chrome 126.0.0.0,,,2024-07-17 09:46:34,2024-07-17 09:47:37,1m - 3.043s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:46:34,2024-07-17 09:46:38,3.401s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:46:38,2024-07-17 09:46:40,2.410s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:46:40,2024-07-17 09:46:42,1.220s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:46:42,2024-07-17 09:46:42,0.771s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Tambah Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:46:42,2024-07-17 09:46:43,0.632s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:46:43,2024-07-17 09:46:44,0.805s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:46:44,2024-07-17 09:47:15,30.808s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:47:15,2024-07-17 09:47:25,10.019s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:47:25,2024-07-17 09:47:26,1.340s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:47:26,2024-07-17 09:47:26,0.558s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:47:26,2024-07-17 09:47:29,2.083s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:47:29,2024-07-17 09:47:29,0.454s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:47:29,2024-07-17 09:47:30,0.587s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 09:47:30,2024-07-17 09:47:31,1.122s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:47:31,2024-07-17 09:47:31,0.535s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 09:47:31,2024-07-17 09:47:32,0.450s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:47:32,2024-07-17 09:47:32,0.704s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Daftar Syarat Pembayaran""))",Chrome 126.0.0.0,,,2024-07-17 09:47:32,2024-07-17 09:47:33,0.706s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:47:33,2024-07-17 09:47:34,0.598s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Baru""))",Chrome 126.0.0.0,,,2024-07-17 09:47:34,2024-07-17 09:47:34,0.442s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:47:34,2024-07-17 09:47:35,0.481s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Syarat Pembayaran_text-sm text-color _bc71e6""), ""Test"")",Chrome 126.0.0.0,,,2024-07-17 09:47:35,2024-07-17 09:47:35,0.798s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:47:35,2024-07-17 09:47:36,0.524s,PASSED
+"doubleClick(findTestObject(""Object Repository/Test Tambah Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 09:47:36,2024-07-17 09:47:37,0.555s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:47:37,2024-07-17 09:47:37,0.468s,PASSED
+,,,,,,,
+Test Cases/Form Syarat Pembayaran/Test Tambah Template Daftar Syarat Pembayaran,Chrome 126.0.0.0,,,2024-07-17 09:47:37,2024-07-17 09:48:45,1m - 7.635s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:47:38,2024-07-17 09:47:41,3.930s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:47:41,2024-07-17 09:47:47,5.182s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Template Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:47:47,2024-07-17 09:47:48,1.396s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:47:48,2024-07-17 09:47:49,0.485s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Tambah Template Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:47:49,2024-07-17 09:47:49,0.586s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:47:49,2024-07-17 09:47:50,0.467s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Template Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:47:50,2024-07-17 09:48:21,31.558s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:48:21,2024-07-17 09:48:31,10.005s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:48:31,2024-07-17 09:48:32,0.937s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Template Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:48:32,2024-07-17 09:48:33,0.429s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:48:33,2024-07-17 09:48:34,1.127s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Template Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:48:34,2024-07-17 09:48:34,0.418s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:48:34,2024-07-17 09:48:35,0.655s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Template Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 09:48:35,2024-07-17 09:48:35,0.450s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:48:35,2024-07-17 09:48:36,0.461s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Template Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 09:48:36,2024-07-17 09:48:36,0.469s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:48:36,2024-07-17 09:48:37,0.895s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Template Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Daftar Syarat Pembayaran""))",Chrome 126.0.0.0,,,2024-07-17 09:48:37,2024-07-17 09:48:37,0.451s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:48:37,2024-07-17 09:48:38,0.502s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Template Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Baru Template""))",Chrome 126.0.0.0,,,2024-07-17 09:48:38,2024-07-17 09:48:38,0.425s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:48:38,2024-07-17 09:48:39,0.478s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Template Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/div_-- Pilih --_p-dropdown-trigger ng-tns-c70-59""))",Chrome 126.0.0.0,,,2024-07-17 09:48:39,2024-07-17 09:48:39,0.445s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:48:39,2024-07-17 09:48:40,0.474s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Template Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/li_JENIS BARU""))",Chrome 126.0.0.0,,,2024-07-17 09:48:40,2024-07-17 09:48:40,0.491s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:48:40,2024-07-17 09:48:41,0.511s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Template Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Dokumen Baru""))",Chrome 126.0.0.0,,,2024-07-17 09:48:41,2024-07-17 09:48:41,0.496s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:48:41,2024-07-17 09:48:42,0.507s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Template Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Dokumen_p-checkbox-box p-component""))",Chrome 126.0.0.0,,,2024-07-17 09:48:42,2024-07-17 09:48:42,0.411s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:48:42,2024-07-17 09:48:43,0.480s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Template Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Pilih""))",Chrome 126.0.0.0,,,2024-07-17 09:48:43,2024-07-17 09:48:43,0.445s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:48:43,2024-07-17 09:48:44,0.589s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Template Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 09:48:44,2024-07-17 09:48:44,0.418s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:48:44,2024-07-17 09:48:45,0.509s,PASSED
+,,,,,,,
+Test Cases/Form Syarat Pembayaran/Test Hapus Daftar Syarat Pembayaran,Chrome 126.0.0.0,,,2024-07-17 09:48:45,2024-07-17 09:50:00,1m - 15.658s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:48:45,2024-07-17 09:48:49,3.389s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:48:49,2024-07-17 09:48:51,1.991s,PASSED
+"setText(findTestObject(""Object Repository/Test Hapus Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:48:51,2024-07-17 09:48:52,1.185s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:48:52,2024-07-17 09:48:52,0.520s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Hapus Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:48:52,2024-07-17 09:48:53,0.532s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:48:53,2024-07-17 09:48:54,0.716s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:48:54,2024-07-17 09:49:25,31.538s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:49:25,2024-07-17 09:49:35,10.010s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:49:35,2024-07-17 09:49:36,0.820s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:49:36,2024-07-17 09:49:36,0.444s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:49:36,2024-07-17 09:49:37,1.101s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:49:37,2024-07-17 09:49:38,0.494s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:49:38,2024-07-17 09:49:38,0.540s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 09:49:38,2024-07-17 09:49:39,0.876s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:49:39,2024-07-17 09:49:40,0.490s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 09:49:40,2024-07-17 09:49:40,0.426s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:49:40,2024-07-17 09:49:41,0.741s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Daftar Syarat Pembayaran""))",Chrome 126.0.0.0,,,2024-07-17 09:49:41,2024-07-17 09:49:41,0.434s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:49:41,2024-07-17 09:49:42,0.545s,PASSED
+delay(15),Chrome 126.0.0.0,,,2024-07-17 09:49:42,2024-07-17 09:49:57,15.014s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:49:57,2024-07-17 09:49:57,0.457s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Hapus""))",Chrome 126.0.0.0,,,2024-07-17 09:49:57,2024-07-17 09:49:58,0.473s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:49:58,2024-07-17 09:49:58,0.491s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Yes""))",Chrome 126.0.0.0,,,2024-07-17 09:49:58,2024-07-17 09:49:59,0.451s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:49:59,2024-07-17 09:49:59,0.478s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 09:49:59,2024-07-17 09:50:00,0.418s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:50:00,2024-07-17 09:50:00,0.490s,PASSED
+,,,,,,,
+Test Cases/Form Daftar Dokumen Post Kontrak/Test Tambah Daftar Dokumen Post Kontrak (Form Kontrak Harga Satuan),Chrome 126.0.0.0,,,2024-07-17 09:50:00,2024-07-17 09:51:06,1m - 6.073s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:50:01,2024-07-17 09:50:04,3.396s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:50:04,2024-07-17 09:50:06,1.703s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Daftar Dokumen Post Kontrak (Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:50:06,2024-07-17 09:50:07,1.155s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:50:07,2024-07-17 09:50:08,0.469s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Tambah Daftar Dokumen Post Kontrak (Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:50:08,2024-07-17 09:50:08,0.631s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:50:08,2024-07-17 09:50:09,0.598s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftar Dokumen Post Kontrak (Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:50:09,2024-07-17 09:50:40,31.536s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:50:40,2024-07-17 09:50:50,10.014s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:50:50,2024-07-17 09:50:51,0.884s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Dokumen Post Kontrak (Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:50:51,2024-07-17 09:50:52,0.437s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:50:52,2024-07-17 09:50:53,1.158s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftar Dokumen Post Kontrak (Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:50:53,2024-07-17 09:50:53,0.456s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:50:53,2024-07-17 09:50:54,0.465s,PASSED
+"enhancedClick(findTestObject(""Test Hapus Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 09:50:54,2024-07-17 09:50:55,1.625s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:50:55,2024-07-17 09:50:56,0.493s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Dokumen Post Kontrak (Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 09:50:56,2024-07-17 09:50:56,0.451s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:50:56,2024-07-17 09:50:57,0.757s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftar Dokumen Post Kontrak (Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Daftar Dokumen Post Kontrak""))",Chrome 126.0.0.0,,,2024-07-17 09:50:57,2024-07-17 09:50:57,0.425s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:50:57,2024-07-17 09:50:58,0.586s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Dokumen Post Kontrak (Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Baru""))",Chrome 126.0.0.0,,,2024-07-17 09:50:58,2024-07-17 09:50:59,0.533s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:50:59,2024-07-17 09:50:59,0.486s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Dokumen Post Kontrak (Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_""))",Chrome 126.0.0.0,,,2024-07-17 09:50:59,2024-07-17 09:51:00,0.499s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:51:00,2024-07-17 09:51:00,0.479s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Dokumen Post Kontrak (Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/span_8""))",Chrome 126.0.0.0,,,2024-07-17 09:51:00,2024-07-17 09:51:01,0.435s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:51:01,2024-07-17 09:51:01,0.469s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Daftar Dokumen Post Kontrak (Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Nama_namaDok""), ""test"")",Chrome 126.0.0.0,,,2024-07-17 09:51:01,2024-07-17 09:51:02,0.774s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:51:02,2024-07-17 09:51:02,0.462s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Daftar Dokumen Post Kontrak (Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Keterangan_keterangan""), ""testing"")",Chrome 126.0.0.0,,,2024-07-17 09:51:02,2024-07-17 09:51:03,0.762s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:51:03,2024-07-17 09:51:03,0.485s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Dokumen Post Kontrak (Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 09:51:03,2024-07-17 09:51:04,0.474s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:51:04,2024-07-17 09:51:04,0.560s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Dokumen Post Kontrak (Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Keluar""))",Chrome 126.0.0.0,,,2024-07-17 09:51:04,2024-07-17 09:51:05,0.460s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:51:05,2024-07-17 09:51:05,0.499s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Dokumen Post Kontrak (Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 09:51:05,2024-07-17 09:51:06,0.412s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:51:06,2024-07-17 09:51:06,0.504s,PASSED
+,,,,,,,
+Test Cases/Form Daftar Dokumen Post Kontrak/Test Tambah Upload Dokumen Post Kontrak,Chrome 126.0.0.0,,,2024-07-17 09:51:06,2024-07-17 09:52:13,1m - 6.637s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:51:07,2024-07-17 09:51:10,3.288s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:51:10,2024-07-17 09:51:13,2.536s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Upload Dokumen Post Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:51:13,2024-07-17 09:51:14,1.614s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:51:14,2024-07-17 09:51:15,0.811s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Tambah Upload Dokumen Post Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:51:15,2024-07-17 09:51:17,1.304s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:51:17,2024-07-17 09:51:17,0.817s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Upload Dokumen Post Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:51:17,2024-07-17 09:51:48,30.931s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:51:48,2024-07-17 09:51:58,10.017s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:51:58,2024-07-17 09:51:59,0.908s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Upload Dokumen Post Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:51:59,2024-07-17 09:52:00,0.416s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:52:00,2024-07-17 09:52:01,1.095s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Upload Dokumen Post Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:52:01,2024-07-17 09:52:01,0.454s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:52:01,2024-07-17 09:52:02,0.578s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Upload Dokumen Post Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td""))",Chrome 126.0.0.0,,,2024-07-17 09:52:02,2024-07-17 09:52:02,0.638s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:52:02,2024-07-17 09:52:03,0.495s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Upload Dokumen Post Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 09:52:03,2024-07-17 09:52:03,0.436s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:52:03,2024-07-17 09:52:04,0.793s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Upload Dokumen Post Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Daftar Dokumen Post Kontrak""))",Chrome 126.0.0.0,,,2024-07-17 09:52:04,2024-07-17 09:52:05,0.425s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:52:05,2024-07-17 09:52:05,0.511s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Upload Dokumen Post Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_test""))",Chrome 126.0.0.0,,,2024-07-17 09:52:05,2024-07-17 09:52:05,0.421s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:52:05,2024-07-17 09:52:06,0.492s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Upload Dokumen Post Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit_1""))",Chrome 126.0.0.0,,,2024-07-17 09:52:06,2024-07-17 09:52:06,0.534s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:52:06,2024-07-17 09:52:07,0.493s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Upload Dokumen Post Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Baru""))",Chrome 126.0.0.0,,,2024-07-17 09:52:07,2024-07-17 09:52:07,0.445s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:52:07,2024-07-17 09:52:08,0.495s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Upload Dokumen Post Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Pilih Akses_ng-tns-c117-65 p-multiselec_fed869""))",Chrome 126.0.0.0,,,2024-07-17 09:52:08,2024-07-17 09:52:08,0.498s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:52:08,2024-07-17 09:52:09,0.512s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Upload Dokumen Post Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/li_SCMAP""))",Chrome 126.0.0.0,,,2024-07-17 09:52:09,2024-07-17 09:52:10,0.863s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:52:10,2024-07-17 09:52:10,0.604s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Upload Dokumen Post Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Choose""))",Chrome 126.0.0.0,,,2024-07-17 09:52:10,2024-07-17 09:52:11,0.446s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:52:11,2024-07-17 09:52:12,0.725s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Upload Dokumen Post Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 09:52:12,2024-07-17 09:52:12,0.936s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:52:12,2024-07-17 09:52:13,0.528s,PASSED
+,,,,,,,
+Test Cases/Form Daftar Dokumen Post Kontrak/Test Edit Daftar Dokumen Post Kontrak (Form Kontrak Harga Satuan),Chrome 126.0.0.0,,,2024-07-17 09:52:13,2024-07-17 09:53:18,1m - 4.541s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:52:14,2024-07-17 09:52:17,2.805s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:52:17,2024-07-17 09:52:18,1.674s,PASSED
+"setText(findTestObject(""Object Repository/cokkkk/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:52:18,2024-07-17 09:52:19,1.067s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:52:19,2024-07-17 09:52:20,0.472s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/cokkkk/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:52:20,2024-07-17 09:52:20,0.512s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:52:20,2024-07-17 09:52:21,0.431s,PASSED
+"enhancedClick(findTestObject(""Object Repository/cokkkk/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:52:21,2024-07-17 09:52:52,30.822s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:52:52,2024-07-17 09:53:02,10.008s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:53:02,2024-07-17 09:53:04,2.172s,PASSED
+"click(findTestObject(""Object Repository/cokkkk/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:53:04,2024-07-17 09:53:04,0.550s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:53:04,2024-07-17 09:53:06,1.497s,PASSED
+"enhancedClick(findTestObject(""Object Repository/cokkkk/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:53:06,2024-07-17 09:53:06,0.453s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:53:06,2024-07-17 09:53:07,0.480s,PASSED
+"enhancedClick(findTestObject(""Object Repository/cokkkk/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 09:53:07,2024-07-17 09:53:08,1.086s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:53:08,2024-07-17 09:53:08,0.489s,PASSED
+"click(findTestObject(""Object Repository/cokkkk/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 09:53:08,2024-07-17 09:53:09,0.448s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:53:09,2024-07-17 09:53:10,0.782s,PASSED
+"enhancedClick(findTestObject(""Object Repository/cokkkk/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Daftar Dokumen Post Kontrak""))",Chrome 126.0.0.0,,,2024-07-17 09:53:10,2024-07-17 09:53:10,0.547s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:53:10,2024-07-17 09:53:11,0.577s,PASSED
+"enhancedClick(findTestObject(""Object Repository/cokkkk/Page_FinUP (Financial Integrated Applicatio_e626e9/td_testing""))",Chrome 126.0.0.0,,,2024-07-17 09:53:11,2024-07-17 09:53:11,0.544s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:53:11,2024-07-17 09:53:12,0.488s,PASSED
+"click(findTestObject(""Object Repository/cokkkk/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit_1""))",Chrome 126.0.0.0,,,2024-07-17 09:53:12,2024-07-17 09:53:12,0.450s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:53:12,2024-07-17 09:53:13,0.509s,PASSED
+"setText(findTestObject(""Object Repository/cokkkk/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Nama_namaDok""), ""tester"")",Chrome 126.0.0.0,,,2024-07-17 09:53:13,2024-07-17 09:53:14,0.881s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:53:14,2024-07-17 09:53:14,0.475s,PASSED
+"setText(findTestObject(""Object Repository/cokkkk/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Keterangan_keterangan""), ""testing"")",Chrome 126.0.0.0,,,2024-07-17 09:53:14,2024-07-17 09:53:15,0.795s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:53:15,2024-07-17 09:53:15,0.469s,PASSED
+"click(findTestObject(""Object Repository/cokkkk/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 09:53:15,2024-07-17 09:53:16,0.429s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:53:16,2024-07-17 09:53:16,0.517s,PASSED
+"click(findTestObject(""Object Repository/cokkkk/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Keluar""))",Chrome 126.0.0.0,,,2024-07-17 09:53:16,2024-07-17 09:53:17,0.809s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:53:17,2024-07-17 09:53:18,0.491s,PASSED
+,,,,,,,
+Test Cases/Form Daftar Dokumen Post Kontrak/Test Edit Upload Dokumen Post Kontrak,Chrome 126.0.0.0,,,2024-07-17 09:53:18,2024-07-17 09:54:22,1m - 4.592s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:53:18,2024-07-17 09:53:22,4.139s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:53:22,2024-07-17 09:53:24,2.102s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:53:24,2024-07-17 09:53:26,1.086s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:53:26,2024-07-17 09:53:26,0.495s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Edit Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:53:26,2024-07-17 09:53:27,0.516s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:53:27,2024-07-17 09:53:27,0.451s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:53:27,2024-07-17 09:53:58,30.888s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:53:58,2024-07-17 09:54:08,10.009s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:54:08,2024-07-17 09:54:09,0.827s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:54:09,2024-07-17 09:54:09,0.434s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:54:09,2024-07-17 09:54:10,1.163s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:54:10,2024-07-17 09:54:11,0.433s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:54:11,2024-07-17 09:54:11,0.527s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 09:54:11,2024-07-17 09:54:12,0.898s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:54:12,2024-07-17 09:54:13,0.482s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 09:54:13,2024-07-17 09:54:13,0.407s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:54:13,2024-07-17 09:54:14,1.116s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Daftar Dokumen Post Kontrak""))",Chrome 126.0.0.0,,,2024-07-17 09:54:14,2024-07-17 09:54:15,0.477s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:54:15,2024-07-17 09:54:15,0.537s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/td_testing baru""))",Chrome 126.0.0.0,,,2024-07-17 09:54:15,2024-07-17 09:54:16,0.395s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:54:16,2024-07-17 09:54:16,0.517s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit_1""))",Chrome 126.0.0.0,,,2024-07-17 09:54:16,2024-07-17 09:54:17,0.473s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:54:17,2024-07-17 09:54:17,0.456s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_""))",Chrome 126.0.0.0,,,2024-07-17 09:54:17,2024-07-17 09:54:18,0.541s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:54:18,2024-07-17 09:54:18,0.508s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Uraian_text-base text-color surfac_90fa31""), ""test upload baru"")",Chrome 126.0.0.0,,,2024-07-17 09:54:18,2024-07-17 09:54:19,0.829s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:54:19,2024-07-17 09:54:19,0.461s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Choose""))",Chrome 126.0.0.0,,,2024-07-17 09:54:19,2024-07-17 09:54:20,0.476s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:54:20,2024-07-17 09:54:20,0.563s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 09:54:20,2024-07-17 09:54:21,1.093s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:54:21,2024-07-17 09:54:22,0.665s,PASSED
+,,,,,,,
+Test Cases/Form Daftar Dokumen Post Kontrak/Test Hapus Daftar Dokumen Post Kontrak (Form Kontrak Harga Satuan),Chrome 126.0.0.0,,,2024-07-17 09:54:22,2024-07-17 09:55:37,1m - 15.021s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:54:23,2024-07-17 09:54:27,3.572s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:54:27,2024-07-17 09:54:30,2.988s,PASSED
+"setText(findTestObject(""Object Repository/Test Hapus Daftar Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:54:30,2024-07-17 09:54:31,1.599s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:54:31,2024-07-17 09:54:32,0.695s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Hapus Daftar Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:54:32,2024-07-17 09:54:33,0.684s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:54:33,2024-07-17 09:54:33,0.665s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:54:33,2024-07-17 09:55:04,31.126s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:55:04,2024-07-17 09:55:14,10.015s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:55:14,2024-07-17 09:55:15,0.929s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:55:15,2024-07-17 09:55:16,0.624s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:55:16,2024-07-17 09:55:18,1.896s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:55:18,2024-07-17 09:55:18,0.532s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:55:18,2024-07-17 09:55:19,0.595s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 09:55:19,2024-07-17 09:55:19,0.484s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:55:19,2024-07-17 09:55:20,0.510s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 09:55:20,2024-07-17 09:55:20,0.424s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:55:20,2024-07-17 09:55:21,0.875s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Daftar Dokumen Post Kontrak""))",Chrome 126.0.0.0,,,2024-07-17 09:55:21,2024-07-17 09:55:22,0.433s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:55:22,2024-07-17 09:55:22,0.585s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:55:22,2024-07-17 09:55:32,10.013s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:55:32,2024-07-17 09:55:33,0.543s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Hapus""))",Chrome 126.0.0.0,,,2024-07-17 09:55:33,2024-07-17 09:55:34,0.753s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:55:34,2024-07-17 09:55:34,0.599s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Yes""))",Chrome 126.0.0.0,,,2024-07-17 09:55:34,2024-07-17 09:55:35,1.009s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:55:35,2024-07-17 09:55:36,0.571s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 09:55:36,2024-07-17 09:55:37,0.755s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:55:37,2024-07-17 09:55:37,0.635s,PASSED
+,,,,,,,
+Test Cases/Form Daftar Dokumen Post Kontrak/Test Hapus Upload Dokumen Post Kontrak,Chrome 126.0.0.0,,,2024-07-17 09:55:37,2024-07-17 09:57:04,1m - 26.815s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:55:38,2024-07-17 09:55:41,3.329s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:55:41,2024-07-17 09:55:43,1.797s,PASSED
+"setText(findTestObject(""Object Repository/Test Hapus Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:55:43,2024-07-17 09:55:45,1.511s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:55:45,2024-07-17 09:55:45,0.473s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Hapus Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:55:45,2024-07-17 09:55:46,0.687s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:55:46,2024-07-17 09:55:47,0.726s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:55:47,2024-07-17 09:56:18,30.917s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:56:18,2024-07-17 09:56:28,10.018s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:56:28,2024-07-17 09:56:29,1.044s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:56:29,2024-07-17 09:56:29,0.539s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:56:29,2024-07-17 09:56:31,1.509s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:56:31,2024-07-17 09:56:31,0.436s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:56:31,2024-07-17 09:56:32,0.514s,PASSED
+"enhancedClick(findTestObject(""Test Tambah Daftar Syarat Pembayaran/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 09:56:32,2024-07-17 09:56:32,0.713s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:56:32,2024-07-17 09:56:33,0.496s,PASSED
+"doubleClick(findTestObject(""Object Repository/Test Hapus Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 09:56:33,2024-07-17 09:56:34,0.766s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:56:34,2024-07-17 09:56:35,0.960s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Daftar Dokumen Post Kontrak""))",Chrome 126.0.0.0,,,2024-07-17 09:56:35,2024-07-17 09:56:35,0.659s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:56:35,2024-07-17 09:56:36,0.549s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/td_tester""))",Chrome 126.0.0.0,,,2024-07-17 09:56:36,2024-07-17 09:56:36,0.455s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:56:36,2024-07-17 09:56:37,0.526s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Upload Dokumen Post Kontrak (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit_1""))",Chrome 126.0.0.0,,,2024-07-17 09:56:37,2024-07-17 09:56:37,0.535s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:56:37,2024-07-17 09:56:38,0.665s,PASSED
+delay(15),Chrome 126.0.0.0,,,2024-07-17 09:56:38,2024-07-17 09:56:53,15.009s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:56:53,2024-07-17 09:56:54,0.520s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:56:54,2024-07-17 09:57:04,10.011s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:57:04,2024-07-17 09:57:04,0.490s,PASSED
+,,,,,,,
+Test Cases/Test Tambah Daftar Delivery Order,Chrome 126.0.0.0,,,2024-07-17 09:57:04,2024-07-17 09:58:37,1m - 33.123s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:57:05,2024-07-17 09:57:08,3.177s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:57:08,2024-07-17 09:57:10,2.005s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:57:10,2024-07-17 09:57:12,1.947s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:57:12,2024-07-17 09:57:13,0.513s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:57:13,2024-07-17 09:57:14,0.973s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:57:14,2024-07-17 09:57:14,0.793s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:57:14,2024-07-17 09:57:45,31.056s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:57:45,2024-07-17 09:57:55,10.012s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:57:55,2024-07-17 09:57:56,0.752s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:57:56,2024-07-17 09:57:57,0.430s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:57:57,2024-07-17 09:57:57,0.729s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:57:57,2024-07-17 09:57:58,1.032s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:57:58,2024-07-17 09:57:59,0.583s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 09:57:59,2024-07-17 09:58:00,0.905s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:00,2024-07-17 09:58:01,0.860s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 09:58:01,2024-07-17 09:58:01,0.639s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:01,2024-07-17 09:58:02,1.060s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Baru""))",Chrome 126.0.0.0,,,2024-07-17 09:58:02,2024-07-17 09:58:03,0.384s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:03,2024-07-17 09:58:03,0.527s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Judul Kontrak_judulKontrak""), ""do lima"")",Chrome 126.0.0.0,,,2024-07-17 09:58:03,2024-07-17 09:58:06,2.608s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:06,2024-07-17 09:58:07,0.502s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No DO_text-sm text-color p-2 border-1_80433f""), ""do0005"")",Chrome 126.0.0.0,,,2024-07-17 09:58:07,2024-07-17 09:58:07,0.832s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:07,2024-07-17 09:58:08,0.490s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/button_""))",Chrome 126.0.0.0,,,2024-07-17 09:58:08,2024-07-17 09:58:08,0.470s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:08,2024-07-17 09:58:09,0.477s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/span_9""))",Chrome 126.0.0.0,,,2024-07-17 09:58:09,2024-07-17 09:58:27,18.504s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:27,2024-07-17 09:58:28,0.477s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Nilai DO (Rp)_integeronly""))",Chrome 126.0.0.0,,,2024-07-17 09:58:28,2024-07-17 09:58:28,0.447s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:28,2024-07-17 09:58:29,0.518s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No DO_text-sm text-color p-2 border-1_80433f""), ""do005"")",Chrome 126.0.0.0,,,2024-07-17 09:58:29,2024-07-17 09:58:30,1.072s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:30,2024-07-17 09:58:30,0.473s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/div_-- Pilih --_p-dropdown-trigger ng-tns-c70-50""))",Chrome 126.0.0.0,,,2024-07-17 09:58:30,2024-07-17 09:58:31,0.451s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:31,2024-07-17 09:58:31,0.500s,PASSED
+"clickOffset(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/span_TIM TEST 2_p-ink p-ink-active""), 0, 0)",Chrome 126.0.0.0,,,2024-07-17 09:58:31,2024-07-17 09:58:32,0.534s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:32,2024-07-17 09:58:32,0.516s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/div_-- Pilih --_p-dropdown-trigger ng-tns-c70-51""))",Chrome 126.0.0.0,,,2024-07-17 09:58:32,2024-07-17 09:58:33,0.513s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:33,2024-07-17 09:58:33,0.522s,PASSED
+"clickOffset(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Tim Pemeriksa Penyelesaian Pekerjaan_p_941fab""), 0, 0)",Chrome 126.0.0.0,,,2024-07-17 09:58:33,2024-07-17 09:58:34,0.563s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:34,2024-07-17 09:58:34,0.457s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/div_-- Pilih --_p-dropdown-trigger ng-tns-c70-52""))",Chrome 126.0.0.0,,,2024-07-17 09:58:34,2024-07-17 09:58:35,0.451s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:35,2024-07-17 09:58:35,0.477s,PASSED
+"clickOffset(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/span_BMUM_p-ink p-ink-active""), 0, 0)",Chrome 126.0.0.0,,,2024-07-17 09:58:35,2024-07-17 09:58:36,0.516s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:36,2024-07-17 09:58:36,0.454s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 09:58:36,2024-07-17 09:58:37,0.438s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:37,2024-07-17 09:58:37,0.487s,PASSED
+,,,,,,,
+Test Cases/Test Edit Daftar Delivery Order,Chrome 126.0.0.0,,,2024-07-17 09:58:37,2024-07-17 10:00:01,1m - 24.261s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 09:58:38,2024-07-17 09:58:41,2.951s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 09:58:41,2024-07-17 09:58:44,2.942s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 09:58:44,2024-07-17 09:58:45,1.407s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:45,2024-07-17 09:58:46,1.316s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 09:58:46,2024-07-17 09:58:48,1.582s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:58:48,2024-07-17 09:58:49,1.245s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 09:58:49,2024-07-17 09:59:21,31.552s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 09:59:21,2024-07-17 09:59:31,10.008s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:31,2024-07-17 09:59:32,1.334s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 09:59:32,2024-07-17 09:59:33,0.551s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:33,2024-07-17 09:59:34,1.271s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 09:59:34,2024-07-17 09:59:35,0.566s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:35,2024-07-17 09:59:35,0.717s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 09:59:35,2024-07-17 09:59:36,0.511s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:36,2024-07-17 09:59:36,0.484s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 09:59:36,2024-07-17 09:59:37,0.439s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:37,2024-07-17 09:59:38,0.840s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/td""))",Chrome 126.0.0.0,,,2024-07-17 09:59:38,2024-07-17 09:59:38,0.502s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:38,2024-07-17 09:59:39,0.437s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit_1""))",Chrome 126.0.0.0,,,2024-07-17 09:59:39,2024-07-17 09:59:39,0.429s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:39,2024-07-17 09:59:39,0.462s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Judul Kontrak_judulKontrak""), ""do satu"")",Chrome 126.0.0.0,,,2024-07-17 09:59:39,2024-07-17 09:59:47,7.127s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:47,2024-07-17 09:59:47,0.519s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No DO_text-sm text-color p-2 border-1_f9ba00""), ""do0001"")",Chrome 126.0.0.0,,,2024-07-17 09:59:47,2024-07-17 09:59:48,1.200s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:48,2024-07-17 09:59:49,0.955s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Nilai DO (Rp)_integeronly""), ""500"")",Chrome 126.0.0.0,,,2024-07-17 09:59:49,2024-07-17 09:59:50,1.172s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:50,2024-07-17 09:59:51,0.485s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Nilai DO (Rp)_integeronly""))",Chrome 126.0.0.0,,,2024-07-17 09:59:51,2024-07-17 09:59:51,0.418s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:51,2024-07-17 09:59:52,0.535s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No DO_text-sm text-color p-2 border-1_f9ba00""), ""po0001"")",Chrome 126.0.0.0,,,2024-07-17 09:59:52,2024-07-17 09:59:53,0.853s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:53,2024-07-17 09:59:53,0.719s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Tim Tes 1_p-dropdown-trigger ng-tns-c70-50""))",Chrome 126.0.0.0,,,2024-07-17 09:59:53,2024-07-17 09:59:54,0.618s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:54,2024-07-17 09:59:55,0.651s,PASSED
+"clickOffset(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/span_TIM TEST 2_p-ink p-ink-active""), 0, 0)",Chrome 126.0.0.0,,,2024-07-17 09:59:55,2024-07-17 09:59:55,0.683s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:55,2024-07-17 09:59:56,0.564s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Tim Pemeriksa Pekerjaan PLTU Tembilahan_4fa025""))",Chrome 126.0.0.0,,,2024-07-17 09:59:56,2024-07-17 09:59:56,0.576s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:56,2024-07-17 09:59:57,0.710s,PASSED
+"clickOffset(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/li_Tim Pemeriksa Penyelesaian Pekerjaan""), 0, 0)",Chrome 126.0.0.0,,,2024-07-17 09:59:57,2024-07-17 09:59:58,0.607s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:58,2024-07-17 09:59:58,0.589s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/div_DIVBSS_p-dropdown-trigger ng-tns-c70-52""))",Chrome 126.0.0.0,,,2024-07-17 09:59:58,2024-07-17 09:59:59,0.446s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 09:59:59,2024-07-17 09:59:59,0.482s,PASSED
+"clickOffset(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/span_BMUM_p-ink p-ink-active""), 0, 0)",Chrome 126.0.0.0,,,2024-07-17 09:59:59,2024-07-17 10:00:00,0.532s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:00:00,2024-07-17 10:00:00,0.533s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 10:00:00,2024-07-17 10:00:01,0.471s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:00:01,2024-07-17 10:00:01,0.552s,PASSED
+,,,,,,,
+Test Cases/Test Tambah Daftar Termin (Kontrak Harga Satuan),Chrome 126.0.0.0,,,2024-07-17 10:00:01,2024-07-17 10:01:16,1m - 14.573s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 10:00:02,2024-07-17 10:00:06,3.663s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 10:00:06,2024-07-17 10:00:07,1.691s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 10:00:07,2024-07-17 10:00:08,1.162s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:00:08,2024-07-17 10:00:09,0.488s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Tambah Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 10:00:09,2024-07-17 10:00:10,0.624s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:00:10,2024-07-17 10:00:10,0.530s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 10:00:10,2024-07-17 10:00:42,31.461s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 10:00:42,2024-07-17 10:00:52,10.018s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:00:52,2024-07-17 10:00:52,0.886s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 10:00:52,2024-07-17 10:00:53,0.429s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:00:53,2024-07-17 10:00:54,1.143s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 10:00:54,2024-07-17 10:00:55,0.513s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:00:55,2024-07-17 10:00:55,0.460s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 10:00:55,2024-07-17 10:00:56,1.182s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:00:56,2024-07-17 10:00:57,0.538s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 10:00:57,2024-07-17 10:00:57,0.423s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:00:57,2024-07-17 10:00:58,0.768s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Tambah Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test_1""))",Chrome 126.0.0.0,,,2024-07-17 10:00:58,2024-07-17 10:00:58,0.406s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:00:58,2024-07-17 10:00:59,0.473s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit_1""))",Chrome 126.0.0.0,,,2024-07-17 10:00:59,2024-07-17 10:00:59,0.525s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:00:59,2024-07-17 10:01:00,0.519s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Baru""))",Chrome 126.0.0.0,,,2024-07-17 10:01:00,2024-07-17 10:01:00,0.447s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:01:00,2024-07-17 10:01:01,0.520s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Nama_p-input-text-cstm ng-untouched n_c18f1c""), ""Testing"")",Chrome 126.0.0.0,,,2024-07-17 10:01:01,2024-07-17 10:01:02,0.804s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:01:02,2024-07-17 10:01:02,0.492s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 10:01:02,2024-07-17 10:01:12,10.010s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:01:12,2024-07-17 10:01:13,0.506s,PASSED
+"setText(findTestObject(""Object Repository/Test Tambah Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Keterangan_judulKontrak""), ""Test"")",Chrome 126.0.0.0,,,2024-07-17 10:01:13,2024-07-17 10:01:14,0.878s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:01:14,2024-07-17 10:01:14,0.505s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Simpan dan Keluar""))",Chrome 126.0.0.0,,,2024-07-17 10:01:14,2024-07-17 10:01:14,0.430s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:01:14,2024-07-17 10:01:15,0.553s,PASSED
+"click(findTestObject(""Object Repository/Test Tambah Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 10:01:15,2024-07-17 10:01:15,0.494s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:01:15,2024-07-17 10:01:16,0.492s,PASSED
+,,,,,,,
+Test Cases/Test Edit Daftar Termin (Kontrak Harga Satuan),Chrome 126.0.0.0,,,2024-07-17 10:01:16,2024-07-17 10:02:31,1m - 14.678s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 10:01:17,2024-07-17 10:01:20,2.928s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 10:01:20,2024-07-17 10:01:23,3.296s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 10:01:23,2024-07-17 10:01:24,1.384s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Edit Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 10:01:24,2024-07-17 10:01:25,0.548s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 10:01:25,2024-07-17 10:01:56,30.926s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 10:01:56,2024-07-17 10:01:57,1.312s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 10:01:57,2024-07-17 10:01:58,1.227s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 10:01:58,2024-07-17 10:02:00,1.372s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 10:02:00,2024-07-17 10:02:00,0.577s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test_1""))",Chrome 126.0.0.0,,,2024-07-17 10:02:00,2024-07-17 10:02:01,0.971s,PASSED
+delay(5),Chrome 126.0.0.0,,,2024-07-17 10:02:01,2024-07-17 10:02:06,5.009s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Edit Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Testing""))",Chrome 126.0.0.0,,,2024-07-17 10:02:06,2024-07-17 10:02:11,4.604s,PASSED
+delay(5),Chrome 126.0.0.0,,,2024-07-17 10:02:11,2024-07-17 10:02:16,5.015s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Nama_p-input-text-cstm ng-untouched n_c18f1c""), ""Test"")",Chrome 126.0.0.0,,,2024-07-17 10:02:16,2024-07-17 10:02:17,0.845s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_jumlah_integeronly""), ""100,000"")",Chrome 126.0.0.0,,,2024-07-17 10:02:17,2024-07-17 10:02:18,1.085s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 10:02:18,2024-07-17 10:02:28,10.011s,PASSED
+"setText(findTestObject(""Object Repository/Test Edit Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Keterangan_judulKontrak""), ""Testing"")",Chrome 126.0.0.0,,,2024-07-17 10:02:28,2024-07-17 10:02:28,0.808s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan dan Keluar""))",Chrome 126.0.0.0,,,2024-07-17 10:02:28,2024-07-17 10:02:29,0.429s,PASSED
+"click(findTestObject(""Object Repository/Test Edit Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 10:02:29,2024-07-17 10:02:30,0.916s,PASSED
+closeBrowser(),Chrome 126.0.0.0,,,2024-07-17 10:02:30,2024-07-17 10:02:31,0.837s,PASSED
+,,,,,,,
+Test Cases/Test Hapus Daftar Termin (Kontrak Harga Satuan),Chrome 126.0.0.0,,,2024-07-17 10:02:31,2024-07-17 10:03:33,1m - 2.190s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 10:02:31,2024-07-17 10:02:34,2.531s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 10:02:34,2024-07-17 10:02:35,1.423s,PASSED
+"setText(findTestObject(""Object Repository/Test Hapus Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 10:02:35,2024-07-17 10:02:37,1.724s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:02:37,2024-07-17 10:02:38,1.517s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Hapus Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 10:02:38,2024-07-17 10:02:39,0.961s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:02:39,2024-07-17 10:02:40,0.461s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 10:02:40,2024-07-17 10:03:11,30.980s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 10:03:11,2024-07-17 10:03:21,10.017s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:03:21,2024-07-17 10:03:22,0.911s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 10:03:22,2024-07-17 10:03:22,0.429s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:03:22,2024-07-17 10:03:23,1.092s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 10:03:23,2024-07-17 10:03:24,0.417s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:03:24,2024-07-17 10:03:24,0.557s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 10:03:24,2024-07-17 10:03:25,0.829s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:03:25,2024-07-17 10:03:26,0.468s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 10:03:26,2024-07-17 10:03:26,0.440s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:03:26,2024-07-17 10:03:27,0.801s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test_1""))",Chrome 126.0.0.0,,,2024-07-17 10:03:27,2024-07-17 10:03:27,0.415s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:03:27,2024-07-17 10:03:28,0.455s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit_1""))",Chrome 126.0.0.0,,,2024-07-17 10:03:28,2024-07-17 10:03:28,0.518s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:03:28,2024-07-17 10:03:29,0.580s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test_1_2""))",Chrome 126.0.0.0,,,2024-07-17 10:03:29,2024-07-17 10:03:29,0.408s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:03:29,2024-07-17 10:03:30,0.491s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Hapus""))",Chrome 126.0.0.0,,,2024-07-17 10:03:30,2024-07-17 10:03:30,0.479s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:03:30,2024-07-17 10:03:31,0.453s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Yes""))",Chrome 126.0.0.0,,,2024-07-17 10:03:31,2024-07-17 10:03:31,0.418s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:03:31,2024-07-17 10:03:32,0.869s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Daftar Termin (Form Kontrak Harga Satuan)/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 10:03:32,2024-07-17 10:03:32,0.525s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:03:32,2024-07-17 10:03:33,0.470s,PASSED
+,,,,,,,
+Test Cases/Test Tambah Upload Dokumen Post Kontrak PAYUNG DO,Chrome 126.0.0.0,,,2024-07-17 10:03:33,2024-07-17 10:04:33,1m - 0.518s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 10:03:33,2024-07-17 10:03:36,3.054s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 10:03:36,2024-07-17 10:03:38,1.560s,PASSED
+"setText(findTestObject(""Object Repository/anjayyy/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 10:03:38,2024-07-17 10:03:39,1.040s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:03:39,2024-07-17 10:03:40,0.442s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/anjayyy/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 10:03:40,2024-07-17 10:03:40,0.547s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:03:40,2024-07-17 10:03:41,0.446s,PASSED
+"enhancedClick(findTestObject(""Object Repository/anjayyy/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 10:03:41,2024-07-17 10:04:12,31.004s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 10:04:12,2024-07-17 10:04:22,10.016s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:04:22,2024-07-17 10:04:22,0.848s,PASSED
+"click(findTestObject(""Object Repository/anjayyy/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 10:04:22,2024-07-17 10:04:23,0.453s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:04:23,2024-07-17 10:04:24,1.062s,PASSED
+"enhancedClick(findTestObject(""Object Repository/anjayyy/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 10:04:24,2024-07-17 10:04:24,0.460s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:04:24,2024-07-17 10:04:25,0.646s,PASSED
+"enhancedClick(findTestObject(""Object Repository/anjayyy/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 10:04:25,2024-07-17 10:04:25,0.463s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:04:25,2024-07-17 10:04:26,0.533s,PASSED
+"click(findTestObject(""Object Repository/anjayyy/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 10:04:26,2024-07-17 10:04:26,0.448s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:04:26,2024-07-17 10:04:27,0.831s,PASSED
+"enhancedClick(findTestObject(""Object Repository/anjayyy/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test_1""))",Chrome 126.0.0.0,,,2024-07-17 10:04:27,2024-07-17 10:04:28,0.406s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:04:28,2024-07-17 10:04:28,0.448s,PASSED
+"click(findTestObject(""Object Repository/anjayyy/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit_1""))",Chrome 126.0.0.0,,,2024-07-17 10:04:28,2024-07-17 10:04:29,0.459s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:04:29,2024-07-17 10:04:29,0.555s,PASSED
+"click(findTestObject(""Object Repository/anjayyy/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Baru""))",Chrome 126.0.0.0,,,2024-07-17 10:04:29,2024-07-17 10:04:30,0.430s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:04:30,2024-07-17 10:04:30,0.470s,PASSED
+"click(findTestObject(""Object Repository/anjayyy/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Choose""))",Chrome 126.0.0.0,,,2024-07-17 10:04:30,2024-07-17 10:04:30,0.405s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:04:30,2024-07-17 10:04:31,0.654s,PASSED
+"click(findTestObject(""Object Repository/anjayyy/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 10:04:31,2024-07-17 10:04:32,0.783s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:04:32,2024-07-17 10:04:32,0.458s,PASSED
+"click(findTestObject(""Object Repository/anjayyy/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan_1""))",Chrome 126.0.0.0,,,2024-07-17 10:04:32,2024-07-17 10:04:33,0.439s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:04:33,2024-07-17 10:04:33,0.604s,PASSED
+,,,,,,,
+Test Cases/Test Edit Upload Dokumen Post Kontrak PAYUNG DO,Chrome 126.0.0.0,,,2024-07-17 10:04:33,2024-07-17 10:05:40,1m - 6.315s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 10:04:34,2024-07-17 10:04:37,3.369s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 10:04:37,2024-07-17 10:04:40,2.748s,PASSED
+"setText(findTestObject(""Object Repository/edit do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 10:04:40,2024-07-17 10:04:41,1.189s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:04:41,2024-07-17 10:04:42,0.461s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/edit do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 10:04:42,2024-07-17 10:04:42,0.583s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:04:42,2024-07-17 10:04:43,0.565s,PASSED
+"enhancedClick(findTestObject(""Object Repository/edit do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 10:04:43,2024-07-17 10:05:14,31.517s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 10:05:14,2024-07-17 10:05:24,10.020s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:05:24,2024-07-17 10:05:25,1.134s,PASSED
+"click(findTestObject(""Object Repository/edit do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 10:05:25,2024-07-17 10:05:26,0.401s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:05:26,2024-07-17 10:05:27,1.164s,PASSED
+"enhancedClick(findTestObject(""Object Repository/edit do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 10:05:27,2024-07-17 10:05:28,0.473s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:05:28,2024-07-17 10:05:28,0.529s,PASSED
+"enhancedClick(findTestObject(""Object Repository/edit do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 10:05:28,2024-07-17 10:05:29,0.869s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:05:29,2024-07-17 10:05:29,0.526s,PASSED
+"click(findTestObject(""Object Repository/edit do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 10:05:29,2024-07-17 10:05:30,0.447s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:05:30,2024-07-17 10:05:31,0.786s,PASSED
+"enhancedClick(findTestObject(""Object Repository/edit do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test_1""))",Chrome 126.0.0.0,,,2024-07-17 10:05:31,2024-07-17 10:05:31,0.468s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:05:31,2024-07-17 10:05:32,0.464s,PASSED
+"click(findTestObject(""Object Repository/edit do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit_1""))",Chrome 126.0.0.0,,,2024-07-17 10:05:32,2024-07-17 10:05:32,0.565s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:05:32,2024-07-17 10:05:33,0.579s,PASSED
+"click(findTestObject(""Object Repository/edit do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_""))",Chrome 126.0.0.0,,,2024-07-17 10:05:33,2024-07-17 10:05:33,0.558s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:05:33,2024-07-17 10:05:34,0.492s,PASSED
+"click(findTestObject(""Object Repository/edit do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Pilih Akses_ng-tns-c117-65 p-multiselec_fed869""))",Chrome 126.0.0.0,,,2024-07-17 10:05:34,2024-07-17 10:05:34,0.443s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:05:34,2024-07-17 10:05:35,0.551s,PASSED
+"click(findTestObject(""Object Repository/edit do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/div_SCMAP_p-checkbox-box""))",Chrome 126.0.0.0,,,2024-07-17 10:05:35,2024-07-17 10:05:35,0.443s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:05:35,2024-07-17 10:05:36,0.506s,PASSED
+"click(findTestObject(""Object Repository/edit do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Choose""))",Chrome 126.0.0.0,,,2024-07-17 10:05:36,2024-07-17 10:05:36,0.469s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:05:36,2024-07-17 10:05:37,0.699s,PASSED
+"click(findTestObject(""Object Repository/edit do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 10:05:37,2024-07-17 10:05:38,0.873s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:05:38,2024-07-17 10:05:38,0.659s,PASSED
+"click(findTestObject(""Object Repository/edit do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan_1""))",Chrome 126.0.0.0,,,2024-07-17 10:05:38,2024-07-17 10:05:39,0.640s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:05:39,2024-07-17 10:05:40,0.642s,PASSED
+,,,,,,,
+Test Cases/Test Hapus Upload Dokumen Post Kontrak PAYUNG DO,Chrome 126.0.0.0,,,2024-07-17 10:05:40,2024-07-17 10:06:45,1m - 5.053s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 10:05:41,2024-07-17 10:05:44,3.245s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 10:05:44,2024-07-17 10:05:46,1.657s,PASSED
+"setText(findTestObject(""Object Repository/hapus do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 10:05:46,2024-07-17 10:05:47,1.064s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:05:47,2024-07-17 10:05:47,0.481s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/hapus do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 10:05:47,2024-07-17 10:05:48,0.538s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:05:48,2024-07-17 10:05:48,0.455s,PASSED
+"enhancedClick(findTestObject(""Object Repository/hapus do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 10:05:48,2024-07-17 10:06:19,31.225s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 10:06:19,2024-07-17 10:06:29,10.013s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:06:29,2024-07-17 10:06:30,0.852s,PASSED
+"click(findTestObject(""Object Repository/hapus do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 10:06:30,2024-07-17 10:06:31,0.421s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:06:31,2024-07-17 10:06:32,1.513s,PASSED
+"enhancedClick(findTestObject(""Object Repository/hapus do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 10:06:32,2024-07-17 10:06:33,0.505s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:06:33,2024-07-17 10:06:33,0.726s,PASSED
+"enhancedClick(findTestObject(""Object Repository/hapus do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 10:06:33,2024-07-17 10:06:34,0.508s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:06:34,2024-07-17 10:06:34,0.492s,PASSED
+"click(findTestObject(""Object Repository/hapus do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 10:06:34,2024-07-17 10:06:35,0.435s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:06:35,2024-07-17 10:06:36,0.745s,PASSED
+"enhancedClick(findTestObject(""Object Repository/hapus do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test_1""))",Chrome 126.0.0.0,,,2024-07-17 10:06:36,2024-07-17 10:06:36,0.473s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:06:36,2024-07-17 10:06:36,0.468s,PASSED
+"click(findTestObject(""Object Repository/hapus do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit_1""))",Chrome 126.0.0.0,,,2024-07-17 10:06:36,2024-07-17 10:06:37,0.469s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:06:37,2024-07-17 10:06:38,0.608s,PASSED
+"click(findTestObject(""Object Repository/hapus do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_""))",Chrome 126.0.0.0,,,2024-07-17 10:06:38,2024-07-17 10:06:38,0.474s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:06:38,2024-07-17 10:06:38,0.426s,PASSED
+delay(5),Chrome 126.0.0.0,,,2024-07-17 10:06:38,2024-07-17 10:06:43,5.005s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:06:43,2024-07-17 10:06:44,0.445s,PASSED
+"click(findTestObject(""Object Repository/hapus do payung/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan""))",Chrome 126.0.0.0,,,2024-07-17 10:06:44,2024-07-17 10:06:44,0.454s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:06:44,2024-07-17 10:06:45,0.444s,PASSED
+,,,,,,,
+Test Cases/Test Hapus Daftar Delivery Order,Chrome 126.0.0.0,,,2024-07-17 10:06:45,2024-07-17 10:07:44,58.780s,PASSED
+"openBrowser("""")",Chrome 126.0.0.0,,,2024-07-17 10:06:45,2024-07-17 10:06:48,2.781s,PASSED
+"navigateToUrl(""http://10.7.1.169/"")",Chrome 126.0.0.0,,,2024-07-17 10:06:48,2024-07-17 10:06:50,1.480s,PASSED
+"setText(findTestObject(""Object Repository/Test Hapus Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8""), ""admin"")",Chrome 126.0.0.0,,,2024-07-17 10:06:50,2024-07-17 10:06:51,1.151s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:06:51,2024-07-17 10:06:51,0.446s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test Hapus Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1""), ""RAIVpflpDOg="")",Chrome 126.0.0.0,,,2024-07-17 10:06:51,2024-07-17 10:06:52,0.470s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:06:52,2024-07-17 10:06:52,0.451s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active""))",Chrome 126.0.0.0,,,2024-07-17 10:06:52,2024-07-17 10:07:23,30.890s,PASSED
+delay(10),Chrome 126.0.0.0,,,2024-07-17 10:07:23,2024-07-17 10:07:33,10.011s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:07:33,2024-07-17 10:07:35,2.381s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management""))",Chrome 126.0.0.0,,,2024-07-17 10:07:35,2024-07-17 10:07:36,0.700s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:07:36,2024-07-17 10:07:37,1.214s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Kontrak Harga Satuan""))",Chrome 126.0.0.0,,,2024-07-17 10:07:37,2024-07-17 10:07:38,0.448s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:07:38,2024-07-17 10:07:38,0.527s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test""))",Chrome 126.0.0.0,,,2024-07-17 10:07:38,2024-07-17 10:07:39,0.616s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:07:39,2024-07-17 10:07:40,0.543s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit""))",Chrome 126.0.0.0,,,2024-07-17 10:07:40,2024-07-17 10:07:40,0.441s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:07:40,2024-07-17 10:07:41,0.868s,PASSED
+"enhancedClick(findTestObject(""Object Repository/Test Hapus Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test_1""))",Chrome 126.0.0.0,,,2024-07-17 10:07:41,2024-07-17 10:07:41,0.411s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:07:41,2024-07-17 10:07:42,0.493s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Hapus""))",Chrome 126.0.0.0,,,2024-07-17 10:07:42,2024-07-17 10:07:42,0.415s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:07:42,2024-07-17 10:07:43,0.469s,PASSED
+"click(findTestObject(""Object Repository/Test Hapus Delivery Order/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Yes""))",Chrome 126.0.0.0,,,2024-07-17 10:07:43,2024-07-17 10:07:43,0.473s,PASSED
+takeFullPageScreenshot(),Chrome 126.0.0.0,,,2024-07-17 10:07:43,2024-07-17 10:07:44,0.463s,PASSED
