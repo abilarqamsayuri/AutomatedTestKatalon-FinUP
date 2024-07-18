@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Generate Form Non Kontrak" time="481.436" tests="7" failures="0" errors="0">
+   <testsuite name="Generate Form Non Kontrak" tests="7" failures="0" errors="0" time="481.436" skipped="0" timestamp="2024-07-18 14:16:54" hostname="PTI - DESKTOP-RE4FFTK" id="Test Suites/Test Suite Form Non Kontrak/Generate Form Non Kontrak">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648"/>
+         <property name="logFiles" value="C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287023865.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287025354.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287067284.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287074182.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287075123.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287116493.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287117896.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287119373.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287120528.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287121602.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287122617.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287123966.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287124988.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287127035.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287128522.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287130400.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287131766.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287133206.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287134524.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287136022.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287137026.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287138137.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287144866.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287145987.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287187959.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287189234.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287190831.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287191888.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287192807.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287194351.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287195639.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287197215.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287198141.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287199534.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287200505.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287201758.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287202754.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287203872.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287204889.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287211207.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287212192.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287253687.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287255013.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287256571.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287257710.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287258602.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287259554.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287266356.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287267330.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287308788.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287310140.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287311781.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287312849.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287313743.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287314920.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287316264.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287317571.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287318888.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287320198.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287321107.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287331654.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287332673.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287335138.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287336387.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287337307.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287340366.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287341960.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287342962.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287349525.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287350503.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287392177.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287393658.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287395371.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287396473.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287397431.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287398693.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287399864.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287401173.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287402767.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287403739.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287404778.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287407364.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287408287.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287409345.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287410395.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287435938.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287436815.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287444828.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287445912.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287487212.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287488515.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287490532.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287491598.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287492525.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287493638.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287494575.png, C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287495475.png"/>
+         <property name="hostName" value="PTI - DESKTOP-RE4FFTK"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 126.0.0.0"/>
+         <property name="hostAddress" value="10.7.128.2"/>
+         <property name="sessionId" value="78c2930cbc34e140a8ea0d1589bdb0bf"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Test Case Form Kontrak Harga Satuan/Login" time="52.941" classname="Test Cases/Test Case Form Kontrak Harga Satuan/Login" status="PASSED">
+         <system-out><![CDATA[2024-07-18 14:16:55 - [TEST_CASE][PASSED] - Test Cases/Test Case Form Kontrak Harga Satuan/Login: Test Cases/Test Case Form Kontrak Harga Satuan/Login
+
+2024-07-18 14:16:55 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-07-18 14:16:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-07-18 14:16:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-07-18 14:17:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-07-18 14:17:01 - [TEST_STEP][PASSED] - navigateToUrl("http://10.7.1.169/"): Navigate to 'http://10.7.1.169/' successfully
+
+2024-07-18 14:17:02 - [MESSAGE][PASSED] - Navigate to 'http://10.7.1.169/' successfully
+
+2024-07-18 14:17:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8"), "admin"): Text 'admin' is set on object 'Object Repository/Login/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8'
+
+2024-07-18 14:17:03 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Login/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8'
+
+2024-07-18 14:17:03 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:17:04 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:17:04 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287023865.png]]
+
+2024-07-18 14:17:04 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Login/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1"), "RAIVpflpDOg="): Text ****** has been set on object 'Object Repository/Login/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1'
+
+2024-07-18 14:17:05 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1'
+
+2024-07-18 14:17:05 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:17:05 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:17:05 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287025354.png]]
+
+2024-07-18 14:17:05 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Login/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active")): Object: 'Object Repository/Login/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active' is clicked on
+
+2024-07-18 14:17:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active' is clicked on
+
+2024-07-18 14:17:37 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2024-07-18 14:17:47 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2024-07-18 14:17:47 - [TEST_STEP][PASSED] - takeFullPageScreenshot(STOP_ON_FAILURE): Taking screenshot successfully
+
+2024-07-18 14:17:47 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:17:48 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287067284.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test Case Form Non Kontrak/CRUD Daftar Non kontrak/Test Tambah Daftar Non Kontrak" time="70.437" classname="Test Cases/Test Case Form Non Kontrak/CRUD Daftar Non kontrak/Test Tambah Daftar Non Kontrak" status="PASSED">
+         <system-out><![CDATA[2024-07-18 14:17:48 - [TEST_CASE][PASSED] - Test Cases/Test Case Form Non Kontrak/CRUD Daftar Non kontrak/Test Tambah Daftar Non Kontrak: Test Cases/Test Case Form Non Kontrak/CRUD Daftar Non kontrak/Test Tambah Daftar Non Kontrak
+
+2024-07-18 14:17:48 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-07-18 14:17:48 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-07-18 14:17:49 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-07-18 14:17:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-07-18 14:17:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-07-18 14:17:51 - [TEST_STEP][PASSED] - navigateToUrl("http://10.7.1.169/"): Navigate to 'http://10.7.1.169/' successfully
+
+2024-07-18 14:17:53 - [MESSAGE][PASSED] - Navigate to 'http://10.7.1.169/' successfully
+
+2024-07-18 14:17:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8"), "admin"): Text 'admin' is set on object 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8'
+
+2024-07-18 14:17:54 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8'
+
+2024-07-18 14:17:54 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:17:54 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:17:54 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287074182.png]]
+
+2024-07-18 14:17:54 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1"), "RAIVpflpDOg="): Text ****** has been set on object 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1'
+
+2024-07-18 14:17:55 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1'
+
+2024-07-18 14:17:55 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:17:55 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:17:55 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287075123.png]]
+
+2024-07-18 14:17:55 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active")): Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active' is clicked on
+
+2024-07-18 14:18:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active' is clicked on
+
+2024-07-18 14:18:26 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2024-07-18 14:18:36 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2024-07-18 14:18:36 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:37 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:37 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287116493.png]]
+
+2024-07-18 14:18:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management")): Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management' is clicked on
+
+2024-07-18 14:18:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management' is clicked on
+
+2024-07-18 14:18:37 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:38 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:38 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287117896.png]]
+
+2024-07-18 14:18:38 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak")): Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak' is clicked on
+
+2024-07-18 14:18:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak' is clicked on
+
+2024-07-18 14:18:39 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:39 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:39 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287119373.png]]
+
+2024-07-18 14:18:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Baru")): Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Baru' is clicked on
+
+2024-07-18 14:18:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Baru' is clicked on
+
+2024-07-18 14:18:40 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:41 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:41 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287120528.png]]
+
+2024-07-18 14:18:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_-- Pilih --_p-dropdown-trigger ng-tns-c70-22")): Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_-- Pilih --_p-dropdown-trigger ng-tns-c70-22' is clicked on
+
+2024-07-18 14:18:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_-- Pilih --_p-dropdown-trigger ng-tns-c70-22' is clicked on
+
+2024-07-18 14:18:41 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:41 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:42 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287121602.png]]
+
+2024-07-18 14:18:42 - [TEST_STEP][PASSED] - clickOffset(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_JENIS 003_p-ink p-ink-active"), 0, 0): Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_JENIS 003_p-ink p-ink-active' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:18:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_JENIS 003_p-ink p-ink-active' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:18:42 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:43 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:43 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287122617.png]]
+
+2024-07-18 14:18:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No Surat_p-input-text-cstm ng-untouch_c6ece5"), "0001"): Text '0001' is set on object 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No Surat_p-input-text-cstm ng-untouch_c6ece5'
+
+2024-07-18 14:18:43 - [MESSAGE][PASSED] - Text '0001' is set on object 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No Surat_p-input-text-cstm ng-untouch_c6ece5'
+
+2024-07-18 14:18:43 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:44 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:44 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287123966.png]]
+
+2024-07-18 14:18:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_")): Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on
+
+2024-07-18 14:18:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on
+
+2024-07-18 14:18:44 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:46 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:46 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287124988.png]]
+
+2024-07-18 14:18:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Cari Rekanan_p-inputtext p-component _4141d4"), "juanda"): Text 'juanda' is set on object 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Cari Rekanan_p-inputtext p-component _4141d4'
+
+2024-07-18 14:18:47 - [MESSAGE][PASSED] - Text 'juanda' is set on object 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Cari Rekanan_p-inputtext p-component _4141d4'
+
+2024-07-18 14:18:47 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:47 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:47 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287127035.png]]
+
+2024-07-18 14:18:47 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_BANDARA JUANDA")): Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_BANDARA JUANDA' is double clicked on
+
+2024-07-18 14:18:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_BANDARA JUANDA' is double clicked on
+
+2024-07-18 14:18:48 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:48 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:49 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287128522.png]]
+
+2024-07-18 14:18:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Ttd an_vendor2"), "01"): Text '01' is set on object 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Ttd an_vendor2'
+
+2024-07-18 14:18:50 - [MESSAGE][PASSED] - Text '01' is set on object 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Ttd an_vendor2'
+
+2024-07-18 14:18:50 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:50 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:51 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287130400.png]]
+
+2024-07-18 14:18:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_")): Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on
+
+2024-07-18 14:18:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on
+
+2024-07-18 14:18:51 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:52 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:52 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287131766.png]]
+
+2024-07-18 14:18:52 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_FERDI AGUS")): Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_FERDI AGUS' is double clicked on
+
+2024-07-18 14:18:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_FERDI AGUS' is double clicked on
+
+2024-07-18 14:18:53 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:53 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287133206.png]]
+
+2024-07-18 14:18:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Desk Kontrak_deskkontrak"), "Test"): Text 'Test' is set on object 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Desk Kontrak_deskkontrak'
+
+2024-07-18 14:18:54 - [MESSAGE][PASSED] - Text 'Test' is set on object 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Desk Kontrak_deskkontrak'
+
+2024-07-18 14:18:54 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:54 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:55 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287134524.png]]
+
+2024-07-18 14:18:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Total Harga_integeronly"), "1000000"): Text '1000000' is set on object 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Total Harga_integeronly'
+
+2024-07-18 14:18:56 - [MESSAGE][PASSED] - Text '1000000' is set on object 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Total Harga_integeronly'
+
+2024-07-18 14:18:56 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:56 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287136022.png]]
+
+2024-07-18 14:18:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Total Harga_integeronly")): Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Total Harga_integeronly' is clicked on
+
+2024-07-18 14:18:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Total Harga_integeronly' is clicked on
+
+2024-07-18 14:18:57 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:57 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:57 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287137026.png]]
+
+2024-07-18 14:18:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan")): Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan' is clicked on
+
+2024-07-18 14:18:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan' is clicked on
+
+2024-07-18 14:18:58 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:18:58 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:18:58 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287138137.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test Case Form Non Kontrak/CRUD Daftar Non kontrak/Test Edit Daftar Non Kontrak" time="66.765" classname="Test Cases/Test Case Form Non Kontrak/CRUD Daftar Non kontrak/Test Edit Daftar Non Kontrak" status="PASSED">
+         <system-out><![CDATA[2024-07-18 14:18:58 - [TEST_CASE][PASSED] - Test Cases/Test Case Form Non Kontrak/CRUD Daftar Non kontrak/Test Edit Daftar Non Kontrak: Test Cases/Test Case Form Non Kontrak/CRUD Daftar Non kontrak/Test Edit Daftar Non Kontrak
+
+2024-07-18 14:18:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-07-18 14:18:59 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-07-18 14:19:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-07-18 14:19:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-07-18 14:19:02 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-07-18 14:19:02 - [TEST_STEP][PASSED] - navigateToUrl("http://10.7.1.169/"): Navigate to 'http://10.7.1.169/' successfully
+
+2024-07-18 14:19:03 - [MESSAGE][PASSED] - Navigate to 'http://10.7.1.169/' successfully
+
+2024-07-18 14:19:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8"), "admin"): Text 'admin' is set on object 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8'
+
+2024-07-18 14:19:04 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8'
+
+2024-07-18 14:19:04 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:19:05 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:19:05 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287144866.png]]
+
+2024-07-18 14:19:05 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1"), "RAIVpflpDOg="): Text ****** has been set on object 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1'
+
+2024-07-18 14:19:05 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1'
+
+2024-07-18 14:19:05 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:19:06 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:19:06 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287145987.png]]
+
+2024-07-18 14:19:06 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active")): Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active' is clicked on
+
+2024-07-18 14:19:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active' is clicked on
+
+2024-07-18 14:19:37 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2024-07-18 14:19:47 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2024-07-18 14:19:47 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:19:48 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:19:48 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287187959.png]]
+
+2024-07-18 14:19:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management")): Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management' is clicked on
+
+2024-07-18 14:19:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management' is clicked on
+
+2024-07-18 14:19:49 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:19:50 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:19:50 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287189234.png]]
+
+2024-07-18 14:19:50 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak")): Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak' is clicked on
+
+2024-07-18 14:19:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak' is clicked on
+
+2024-07-18 14:19:50 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:19:51 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:19:51 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287190831.png]]
+
+2024-07-18 14:19:51 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test")): Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test' is clicked on
+
+2024-07-18 14:19:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test' is clicked on
+
+2024-07-18 14:19:51 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:19:52 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:19:52 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287191888.png]]
+
+2024-07-18 14:19:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit")): Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit' is clicked on
+
+2024-07-18 14:19:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit' is clicked on
+
+2024-07-18 14:19:52 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:19:53 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:19:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287192807.png]]
+
+2024-07-18 14:19:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No Surat_p-input-text-cstm ng-untouch_c6ece5"), "02"): Text '02' is set on object 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No Surat_p-input-text-cstm ng-untouch_c6ece5'
+
+2024-07-18 14:19:54 - [MESSAGE][PASSED] - Text '02' is set on object 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No Surat_p-input-text-cstm ng-untouch_c6ece5'
+
+2024-07-18 14:19:54 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:19:54 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:19:54 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287194351.png]]
+
+2024-07-18 14:19:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No Surat_vendor2"), "02"): Text '02' is set on object 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No Surat_vendor2'
+
+2024-07-18 14:19:55 - [MESSAGE][PASSED] - Text '02' is set on object 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No Surat_vendor2'
+
+2024-07-18 14:19:55 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:19:56 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:19:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287195639.png]]
+
+2024-07-18 14:19:56 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Total Harga_integeronly"), "1,000,000"): Text '1,000,000' is set on object 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Total Harga_integeronly'
+
+2024-07-18 14:19:57 - [MESSAGE][PASSED] - Text '1,000,000' is set on object 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Total Harga_integeronly'
+
+2024-07-18 14:19:57 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:19:57 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:19:57 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287197215.png]]
+
+2024-07-18 14:19:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Total Harga_integeronly")): Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Total Harga_integeronly' is clicked on
+
+2024-07-18 14:19:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Total Harga_integeronly' is clicked on
+
+2024-07-18 14:19:58 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:19:58 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:19:58 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287198141.png]]
+
+2024-07-18 14:19:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Desk Kontrak_deskkontrak"), "Tester"): Text 'Tester' is set on object 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Desk Kontrak_deskkontrak'
+
+2024-07-18 14:19:59 - [MESSAGE][PASSED] - Text 'Tester' is set on object 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Desk Kontrak_deskkontrak'
+
+2024-07-18 14:19:59 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:19:59 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:20:00 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287199534.png]]
+
+2024-07-18 14:20:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_")): Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on
+
+2024-07-18 14:20:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on
+
+2024-07-18 14:20:00 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:20:00 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:20:01 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287200505.png]]
+
+2024-07-18 14:20:01 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_MALANG")): Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_MALANG' is double clicked on
+
+2024-07-18 14:20:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_MALANG' is double clicked on
+
+2024-07-18 14:20:01 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:20:02 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:20:02 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287201758.png]]
+
+2024-07-18 14:20:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_")): Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on
+
+2024-07-18 14:20:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on
+
+2024-07-18 14:20:02 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:20:03 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:20:03 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287202754.png]]
+
+2024-07-18 14:20:03 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_AINA SAFITRI")): Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_AINA SAFITRI' is double clicked on
+
+2024-07-18 14:20:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_AINA SAFITRI' is double clicked on
+
+2024-07-18 14:20:03 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:20:04 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:20:04 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287203872.png]]
+
+2024-07-18 14:20:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan")): Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan' is clicked on
+
+2024-07-18 14:20:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan' is clicked on
+
+2024-07-18 14:20:04 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:20:05 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:20:05 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287204889.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test Case Form Non Kontrak/CRUD Daftar Non kontrak/Test Hapus Daftar Non Kontrak" time="54.682" classname="Test Cases/Test Case Form Non Kontrak/CRUD Daftar Non kontrak/Test Hapus Daftar Non Kontrak" status="PASSED">
+         <system-out><![CDATA[2024-07-18 14:20:05 - [TEST_CASE][PASSED] - Test Cases/Test Case Form Non Kontrak/CRUD Daftar Non kontrak/Test Hapus Daftar Non Kontrak: Test Cases/Test Case Form Non Kontrak/CRUD Daftar Non kontrak/Test Hapus Daftar Non Kontrak
+
+2024-07-18 14:20:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-07-18 14:20:06 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-07-18 14:20:06 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-07-18 14:20:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-07-18 14:20:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-07-18 14:20:08 - [TEST_STEP][PASSED] - navigateToUrl("http://10.7.1.169/"): Navigate to 'http://10.7.1.169/' successfully
+
+2024-07-18 14:20:10 - [MESSAGE][PASSED] - Navigate to 'http://10.7.1.169/' successfully
+
+2024-07-18 14:20:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8"), "admin"): Text 'admin' is set on object 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8'
+
+2024-07-18 14:20:11 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8'
+
+2024-07-18 14:20:11 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:20:11 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:20:11 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287211207.png]]
+
+2024-07-18 14:20:11 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1"), "RAIVpflpDOg="): Text ****** has been set on object 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1'
+
+2024-07-18 14:20:12 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1'
+
+2024-07-18 14:20:12 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:20:12 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:20:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287212192.png]]
+
+2024-07-18 14:20:12 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active")): Object: 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active' is clicked on
+
+2024-07-18 14:20:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active' is clicked on
+
+2024-07-18 14:20:43 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2024-07-18 14:20:53 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2024-07-18 14:20:53 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:20:54 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:20:54 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287253687.png]]
+
+2024-07-18 14:20:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management")): Object: 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management' is clicked on
+
+2024-07-18 14:20:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management' is clicked on
+
+2024-07-18 14:20:55 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:20:55 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:20:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287255013.png]]
+
+2024-07-18 14:20:56 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak")): Object: 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak' is clicked on
+
+2024-07-18 14:20:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak' is clicked on
+
+2024-07-18 14:20:56 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:20:56 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:20:57 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287256571.png]]
+
+2024-07-18 14:20:57 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Tester")): Object: 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Tester' is clicked on
+
+2024-07-18 14:20:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Tester' is clicked on
+
+2024-07-18 14:20:57 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:20:58 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:20:58 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287257710.png]]
+
+2024-07-18 14:20:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Hapus")): Object: 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Hapus' is clicked on
+
+2024-07-18 14:20:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Hapus' is clicked on
+
+2024-07-18 14:20:58 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:20:59 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:20:59 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287258602.png]]
+
+2024-07-18 14:20:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Yes")): Object: 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Yes' is clicked on
+
+2024-07-18 14:20:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Hapus Daftar Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Yes' is clicked on
+
+2024-07-18 14:20:59 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:20:59 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:21:00 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287259554.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test Case Form Non Kontrak/CRUD Detail Non Kontrak/Test Tambah Detail Non Kontrak" time="83.496" classname="Test Cases/Test Case Form Non Kontrak/CRUD Detail Non Kontrak/Test Tambah Detail Non Kontrak" status="PASSED">
+         <system-out><![CDATA[2024-07-18 14:21:00 - [TEST_CASE][PASSED] - Test Cases/Test Case Form Non Kontrak/CRUD Detail Non Kontrak/Test Tambah Detail Non Kontrak: Test Cases/Test Case Form Non Kontrak/CRUD Detail Non Kontrak/Test Tambah Detail Non Kontrak
+
+2024-07-18 14:21:00 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-07-18 14:21:00 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-07-18 14:21:01 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-07-18 14:21:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-07-18 14:21:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-07-18 14:21:03 - [TEST_STEP][PASSED] - navigateToUrl("http://10.7.1.169/"): Navigate to 'http://10.7.1.169/' successfully
+
+2024-07-18 14:21:05 - [MESSAGE][PASSED] - Navigate to 'http://10.7.1.169/' successfully
+
+2024-07-18 14:21:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8"), "admin"): Text 'admin' is set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8'
+
+2024-07-18 14:21:06 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8'
+
+2024-07-18 14:21:06 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:21:06 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:21:06 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287266356.png]]
+
+2024-07-18 14:21:06 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1"), "RAIVpflpDOg="): Text ****** has been set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1'
+
+2024-07-18 14:21:07 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1'
+
+2024-07-18 14:21:07 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:21:07 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:21:07 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287267330.png]]
+
+2024-07-18 14:21:07 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active")): Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active' is clicked on
+
+2024-07-18 14:21:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active' is clicked on
+
+2024-07-18 14:21:38 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2024-07-18 14:21:48 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2024-07-18 14:21:48 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:21:49 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:21:49 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287308788.png]]
+
+2024-07-18 14:21:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management")): Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management' is clicked on
+
+2024-07-18 14:21:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management' is clicked on
+
+2024-07-18 14:21:50 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:21:51 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:21:51 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287310140.png]]
+
+2024-07-18 14:21:51 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak")): Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak' is clicked on
+
+2024-07-18 14:21:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak' is clicked on
+
+2024-07-18 14:21:51 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:21:52 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:21:52 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287311781.png]]
+
+2024-07-18 14:21:52 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test")): Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test' is clicked on
+
+2024-07-18 14:21:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test' is clicked on
+
+2024-07-18 14:21:52 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:21:53 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:21:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287312849.png]]
+
+2024-07-18 14:21:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit")): Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit' is clicked on
+
+2024-07-18 14:21:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit' is clicked on
+
+2024-07-18 14:21:53 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:21:54 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:21:54 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287313743.png]]
+
+2024-07-18 14:21:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Baru")): Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Baru' is clicked on
+
+2024-07-18 14:21:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Baru' is clicked on
+
+2024-07-18 14:21:54 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:21:55 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:21:55 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287314920.png]]
+
+2024-07-18 14:21:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Uraian_uraian"), "Tester"): Text 'Tester' is set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Uraian_uraian'
+
+2024-07-18 14:21:56 - [MESSAGE][PASSED] - Text 'Tester' is set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Uraian_uraian'
+
+2024-07-18 14:21:56 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:21:56 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:21:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287316264.png]]
+
+2024-07-18 14:21:56 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Deskripsi_longdesc"), "Tester"): Text 'Tester' is set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Deskripsi_longdesc'
+
+2024-07-18 14:21:57 - [MESSAGE][PASSED] - Text 'Tester' is set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/textarea_Deskripsi_longdesc'
+
+2024-07-18 14:21:57 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:21:57 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:21:58 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287317571.png]]
+
+2024-07-18 14:21:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Satuan_satuan"), "Tester"): Text 'Tester' is set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Satuan_satuan'
+
+2024-07-18 14:21:58 - [MESSAGE][PASSED] - Text 'Tester' is set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Satuan_satuan'
+
+2024-07-18 14:21:58 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:21:59 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:21:59 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287318888.png]]
+
+2024-07-18 14:21:59 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Jumlah_jumlah"), "100000"): Text '100000' is set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Jumlah_jumlah'
+
+2024-07-18 14:22:00 - [MESSAGE][PASSED] - Text '100000' is set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Jumlah_jumlah'
+
+2024-07-18 14:22:00 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:22:00 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:22:00 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287320198.png]]
+
+2024-07-18 14:22:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Jumlah_jumlah")): Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Jumlah_jumlah' is clicked on
+
+2024-07-18 14:22:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Jumlah_jumlah' is clicked on
+
+2024-07-18 14:22:01 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:22:01 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:22:01 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287321107.png]]
+
+2024-07-18 14:22:01 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2024-07-18 14:22:11 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2024-07-18 14:22:11 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:22:12 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:22:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287331654.png]]
+
+2024-07-18 14:22:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_")): Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on
+
+2024-07-18 14:22:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on
+
+2024-07-18 14:22:12 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:22:13 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:22:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287332673.png]]
+
+2024-07-18 14:22:13 - [TEST_STEP][PASSED] - clickOffset(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sa_p-ink p-ink-active"), 0, 0): Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sa_p-ink p-ink-active' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:22:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sa_p-ink p-ink-active' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:22:15 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:22:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:22:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287335138.png]]
+
+2024-07-18 14:22:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No OA_noOa"), "01"): Text '01' is set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No OA_noOa'
+
+2024-07-18 14:22:16 - [MESSAGE][PASSED] - Text '01' is set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_No OA_noOa'
+
+2024-07-18 14:22:16 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:22:16 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:22:16 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287336387.png]]
+
+2024-07-18 14:22:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_")): Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on
+
+2024-07-18 14:22:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on
+
+2024-07-18 14:22:17 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:22:17 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:22:17 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287337307.png]]
+
+2024-07-18 14:22:17 - [TEST_STEP][PASSED] - clickOffset(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sa_p-ink p-ink-active_1"), 0, 0): Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sa_p-ink p-ink-active_1' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:22:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sa_p-ink p-ink-active_1' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:22:20 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:22:21 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:22:21 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287340366.png]]
+
+2024-07-18 14:22:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_User_userOa"), "Tester"): Text 'Tester' is set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_User_userOa'
+
+2024-07-18 14:22:21 - [MESSAGE][PASSED] - Text 'Tester' is set on object 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_User_userOa'
+
+2024-07-18 14:22:21 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:22:22 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:22:22 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287341960.png]]
+
+2024-07-18 14:22:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan dan Keluar")): Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan dan Keluar' is clicked on
+
+2024-07-18 14:22:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Tambah Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan dan Keluar' is clicked on
+
+2024-07-18 14:22:22 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:22:23 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:22:23 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287342962.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test Case Form Non Kontrak/CRUD Detail Non Kontrak/Test Edit Detail Non Kontrak" time="93.817" classname="Test Cases/Test Case Form Non Kontrak/CRUD Detail Non Kontrak/Test Edit Detail Non Kontrak" status="PASSED">
+         <system-out><![CDATA[2024-07-18 14:22:23 - [TEST_CASE][PASSED] - Test Cases/Test Case Form Non Kontrak/CRUD Detail Non Kontrak/Test Edit Detail Non Kontrak: Test Cases/Test Case Form Non Kontrak/CRUD Detail Non Kontrak/Test Edit Detail Non Kontrak
+
+2024-07-18 14:22:24 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-07-18 14:22:24 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-07-18 14:22:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-07-18 14:22:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-07-18 14:22:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-07-18 14:22:26 - [TEST_STEP][PASSED] - navigateToUrl("http://10.7.1.169/"): Navigate to 'http://10.7.1.169/' successfully
+
+2024-07-18 14:22:28 - [MESSAGE][PASSED] - Navigate to 'http://10.7.1.169/' successfully
+
+2024-07-18 14:22:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8"), "admin"): Text 'admin' is set on object 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8'
+
+2024-07-18 14:22:29 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8'
+
+2024-07-18 14:22:29 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:22:29 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:22:29 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287349525.png]]
+
+2024-07-18 14:22:29 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1"), "RAIVpflpDOg="): Text ****** has been set on object 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1'
+
+2024-07-18 14:22:30 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1'
+
+2024-07-18 14:22:30 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:22:30 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:22:31 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287350503.png]]
+
+2024-07-18 14:22:31 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active")): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active' is clicked on
+
+2024-07-18 14:23:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active' is clicked on
+
+2024-07-18 14:23:02 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2024-07-18 14:23:12 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2024-07-18 14:23:12 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:12 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287392177.png]]
+
+2024-07-18 14:23:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management")): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management' is clicked on
+
+2024-07-18 14:23:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management' is clicked on
+
+2024-07-18 14:23:13 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:14 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:14 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287393658.png]]
+
+2024-07-18 14:23:14 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak")): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak' is clicked on
+
+2024-07-18 14:23:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak' is clicked on
+
+2024-07-18 14:23:15 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287395371.png]]
+
+2024-07-18 14:23:15 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test")): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test' is clicked on
+
+2024-07-18 14:23:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test' is clicked on
+
+2024-07-18 14:23:16 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:16 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:16 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287396473.png]]
+
+2024-07-18 14:23:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit")): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit' is clicked on
+
+2024-07-18 14:23:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit' is clicked on
+
+2024-07-18 14:23:17 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:18 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:18 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287397431.png]]
+
+2024-07-18 14:23:18 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Tester")): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Tester' is clicked on
+
+2024-07-18 14:23:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Tester' is clicked on
+
+2024-07-18 14:23:18 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:19 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:19 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287398693.png]]
+
+2024-07-18 14:23:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit_1")): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit_1' is clicked on
+
+2024-07-18 14:23:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit_1' is clicked on
+
+2024-07-18 14:23:19 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:20 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:20 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287399864.png]]
+
+2024-07-18 14:23:20 - [TEST_STEP][PASSED] - clickOffset(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_"), 0, 0): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:23:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:23:21 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:21 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:21 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287401173.png]]
+
+2024-07-18 14:23:21 - [TEST_STEP][PASSED] - clickOffset(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_241A00 Pendapatan TL komponen A - Common"), 0, 0): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_241A00 Pendapatan TL komponen A - Common' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:23:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_241A00 Pendapatan TL komponen A - Common' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:23:22 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:23 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:23 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287402767.png]]
+
+2024-07-18 14:23:23 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Pencarian PRK")): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Pencarian PRK' is clicked on
+
+2024-07-18 14:23:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Pencarian PRK' is clicked on
+
+2024-07-18 14:23:23 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:24 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:24 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287403739.png]]
+
+2024-07-18 14:23:24 - [TEST_STEP][PASSED] - clickOffset(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_"), 0, 0): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:23:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:23:24 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:25 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:25 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287404778.png]]
+
+2024-07-18 14:23:25 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Pendapatan TL komponen A - Common")): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Pendapatan TL komponen A - Common' is clicked on
+
+2024-07-18 14:23:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Pendapatan TL komponen A - Common' is clicked on
+
+2024-07-18 14:23:27 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:27 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:27 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287407364.png]]
+
+2024-07-18 14:23:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Pilih")): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Pilih' is clicked on
+
+2024-07-18 14:23:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Pilih' is clicked on
+
+2024-07-18 14:23:28 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:28 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287408287.png]]
+
+2024-07-18 14:23:28 - [TEST_STEP][PASSED] - clickOffset(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_"), 0, 0): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:23:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:23:29 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:29 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:29 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287409345.png]]
+
+2024-07-18 14:23:29 - [TEST_STEP][PASSED] - clickOffset(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_"), 0, 0): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:23:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_' is clicked on using offset x=0 and y=0
+
+2024-07-18 14:23:30 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:30 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:30 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287410395.png]]
+
+2024-07-18 14:23:30 - [TEST_STEP][PASSED] - delay(25): Delayed 25 second(s)
+
+2024-07-18 14:23:55 - [MESSAGE][PASSED] - Delayed 25 second(s)
+
+2024-07-18 14:23:55 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:56 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287435938.png]]
+
+2024-07-18 14:23:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan dan Keluar")): Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan dan Keluar' is clicked on
+
+2024-07-18 14:23:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Edit Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Simpan dan Keluar' is clicked on
+
+2024-07-18 14:23:56 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:23:57 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:23:57 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287436815.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test Case Form Non Kontrak/CRUD Detail Non Kontrak/Test Hapus Detail Non Kontrak" time="58.647" classname="Test Cases/Test Case Form Non Kontrak/CRUD Detail Non Kontrak/Test Hapus Detail Non Kontrak" status="PASSED">
+         <system-out><![CDATA[2024-07-18 14:23:57 - [TEST_CASE][PASSED] - Test Cases/Test Case Form Non Kontrak/CRUD Detail Non Kontrak/Test Hapus Detail Non Kontrak: Test Cases/Test Case Form Non Kontrak/CRUD Detail Non Kontrak/Test Hapus Detail Non Kontrak
+
+2024-07-18 14:23:57 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-07-18 14:23:57 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-07-18 14:23:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-07-18 14:23:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-07-18 14:24:02 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-07-18 14:24:02 - [TEST_STEP][PASSED] - navigateToUrl("http://10.7.1.169/"): Navigate to 'http://10.7.1.169/' successfully
+
+2024-07-18 14:24:03 - [MESSAGE][PASSED] - Navigate to 'http://10.7.1.169/' successfully
+
+2024-07-18 14:24:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8"), "admin"): Text 'admin' is set on object 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8'
+
+2024-07-18 14:24:04 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8'
+
+2024-07-18 14:24:04 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:24:05 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:24:05 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287444828.png]]
+
+2024-07-18 14:24:05 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1"), "RAIVpflpDOg="): Text ****** has been set on object 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1'
+
+2024-07-18 14:24:05 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/input_Financial Integrated Applications - N_61d5e8_1'
+
+2024-07-18 14:24:05 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:24:06 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:24:06 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287445912.png]]
+
+2024-07-18 14:24:06 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active")): Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active' is clicked on
+
+2024-07-18 14:24:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/span_Sign In_p-ink p-ink-active' is clicked on
+
+2024-07-18 14:24:37 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2024-07-18 14:24:47 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2024-07-18 14:24:47 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:24:47 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:24:48 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287487212.png]]
+
+2024-07-18 14:24:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management")): Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management' is clicked on
+
+2024-07-18 14:24:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/div_Contract Management' is clicked on
+
+2024-07-18 14:24:48 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:24:49 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:24:49 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287488515.png]]
+
+2024-07-18 14:24:49 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak")): Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak' is clicked on
+
+2024-07-18 14:24:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/a_Tanpa Kontrak' is clicked on
+
+2024-07-18 14:24:50 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:24:50 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:24:51 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287490532.png]]
+
+2024-07-18 14:24:51 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test")): Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test' is clicked on
+
+2024-07-18 14:24:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Test' is clicked on
+
+2024-07-18 14:24:51 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:24:51 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:24:52 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287491598.png]]
+
+2024-07-18 14:24:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit")): Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit' is clicked on
+
+2024-07-18 14:24:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Edit' is clicked on
+
+2024-07-18 14:24:52 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:24:53 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:24:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287492525.png]]
+
+2024-07-18 14:24:53 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Tester")): Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Tester' is clicked on
+
+2024-07-18 14:24:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/td_Tester' is clicked on
+
+2024-07-18 14:24:53 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:24:54 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:24:54 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287493638.png]]
+
+2024-07-18 14:24:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Hapus")): Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Hapus' is clicked on
+
+2024-07-18 14:24:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Hapus' is clicked on
+
+2024-07-18 14:24:54 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:24:54 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:24:55 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287494575.png]]
+
+2024-07-18 14:24:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Yes")): Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Yes' is clicked on
+
+2024-07-18 14:24:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Non Kontrak/Test Hapus Detail Non Kontrak/Page_FinUP (Financial Integrated Applicatio_e626e9/button_Yes' is clicked on
+
+2024-07-18 14:24:55 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-07-18 14:24:55 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-07-18 14:24:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\PTI\\Katalon Studio\\Testing-2-master\\Reports\\20240718_141648\\Test Suite Form Non Kontrak\\Generate Form Non Kontrak\\20240718_141648\\1721287495475.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-07-18 14:16:54 - [TEST_SUITE][PASSED] - Generate Form Non Kontrak: Test Cases/Test Case Form Non Kontrak/CRUD Detail Non Kontrak/Test Hapus Detail Non Kontrak]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

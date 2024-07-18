@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sa_p-ink p-ink-active_1</name>
+   <tag></tag>
+   <elementGuidId>14885be3-a50b-4bc3-a054-030f3ff5ec77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[3]/td[5]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-ink.p-ink-active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>62c96b5e-9b73-4bc1-ac9f-d452864efa74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ink p-ink-active</value>
+      <webElementGuid>28056a57-0313-412d-9f72-dfeed80fdc22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c83-36 p-datepicker p-component ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-group-container ng-tns-c83-36 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-group ng-tns-c83-36 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-calendar-container ng-tns-c83-36 ng-star-inserted&quot;]/table[@class=&quot;p-datepicker-calendar ng-tns-c83-36&quot;]/tbody[@class=&quot;ng-tns-c83-36&quot;]/tr[@class=&quot;ng-tns-c83-36 ng-star-inserted&quot;]/td[@class=&quot;ng-tns-c83-36 p-datepicker-today ng-star-inserted&quot;]/span[@class=&quot;p-ripple p-element ng-tns-c83-36 ng-star-inserted&quot;]/span[@class=&quot;p-ink p-ink-active&quot;]</value>
+      <webElementGuid>04383889-7c3c-4dde-8294-867a3aafd128</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[5]/span/span</value>
+      <webElementGuid>647fc69c-d936-46c1-ba38-b21517492756</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
